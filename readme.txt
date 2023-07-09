@@ -19,7 +19,7 @@ game. Center yourself in your play area. The game will
 start.
 
 
-░░░░░Player Position░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░Player Position░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Use the VR controllers to position yourself. The
 controls are listed below.
