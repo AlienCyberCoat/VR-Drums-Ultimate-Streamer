@@ -142,5 +142,4 @@ Available on Steam💾
 https://store.steampowered.com/app/2354400/
 
 Project💾
-https://github.com/AlienCyberCoat/VR-Drums-Ultimate-
-Streamer
+https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer
