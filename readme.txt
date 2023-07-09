@@ -134,3 +134,13 @@ highHat Quick Relase ch1 Note#27
 
 dry Crash ch1 Note#26
 china Crash ch1 Note#25
+
+
+░░░░░MISC░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Available on Steam💾
+https://store.steampowered.com/app/2354400/
+
+Project💾
+https://github.com/AlienCyberCoat/VR-Drums-Ultimate-
+Streamer
