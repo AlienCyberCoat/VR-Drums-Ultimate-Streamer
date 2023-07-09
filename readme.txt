@@ -18,7 +18,8 @@ Select VR Drums Ultimate Steamer from
 your library inSteam. Select PLAY and
 the launch options for the game. Put 
 your VR head on your head and launch the
-game. Center yourself in your play area. . game will start.
+game. Center yourself in your play area. 
+The game will start.
 
 
 ░░░░░Player Position░░░░░░░░░░░░░░░
