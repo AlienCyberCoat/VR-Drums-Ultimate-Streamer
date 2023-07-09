@@ -66,7 +66,7 @@ drum is now locked in place. Tap (Left primary button)
 to exit EDIT MODE.
 
 
-░░░░░Change a Instrument░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░Change an Instrument░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To change a drum press the (Left primary button) to enter
 EDIT MODE. Hold your left hand over the blue cube of the
