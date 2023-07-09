@@ -10,7 +10,7 @@ alien cyber coat
 VR Drums Ultimate Streamer - Readme
 =======================================
 ░░░░░Framework░░░░Gideon2░░░░░░░░░░
-░░░░░Realease░░░░May 2023░░░░░░░░░░
+░░░░░Realease░░░░░May 2023░░░░░░░░░
 
 ░░░░░Operations░░░░░░░░░░░░░░░░░░░
 
