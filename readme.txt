@@ -9,8 +9,10 @@ alien cyber coat
 =========================================
 VR Drums Ultimate Streamer - Readme
 =========================================
+░░░░░Framework░░░░Gideon2░░░░░░░░░░
+░░░░░Realease ░░░░May 2023░░░░░░░░░
 
-░░░░░Operations░░░░░░░░░░░░░░░░░░░░
+░░░░░Operations░░░░░░░░░░░░░░░░░░░
 
 Select VR Drums Ultimate Steamer from 
 your library inSteam. Select PLAY and
