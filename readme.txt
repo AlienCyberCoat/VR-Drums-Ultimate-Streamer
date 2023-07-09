@@ -9,50 +9,69 @@ alien cyber coat
 ========================================================
 VR Drums Ultimate Streamer - Readme
 ========================================================
+░░░░░Framework░░░░░Gideon2░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░Release░░░░░░░May 2023░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░Lead dev░░░░░░IO░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░Platforme░░░░░PC/VR░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░Available░░░░░Steam░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 
 ░░░░░Operations░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Select VR Drums Ultimate Steamer from your library in
 Steam. Select PLAY and the launch options for the game
-will init. Put your VR head on your head and launch the
-game. Center yourself in your play area. The game will 
-start.
+will launch. Put your VR unit on your head and launch 
+the game. Center yourself in your play area. The game 
+will start.
 
 
-░░░░░Player Position░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░Player Positioning░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Use the VR controllers to position yourself. The
-controls are listed below.
+Use your VR controllers to position yourself. The 
+posistioning controls are listed below.
 
-Position Forward (Right 2D axis click)
-Position Back (Left 2D axis click)
-Position Higher (Left primary button)
-Position Lower (Left second primary button)
+░Position Forward (Right 2D axis click)
+░Position Back (Left 2D axis click)
+░Position Higher (Left primary button)
+░Position Lower (Left second primary button)
 
 
 ░░░░░Extended Controls░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Keyboard
+
+░Keyboard
 Kick Hi-hat (K key)
 Kick Bass (Space key)
 
-Gamepad
+░Gamepad
 Kick Bass (Button 2/3) South/East [XBOX, A,B][PS X,O]
 Kick Hi-hat (Button 4/5) North/West [XBOX, X, Y][PS
 Square, Triangle]
 
-Mouse
+░Mouse
 Kick Bass (Left click)
 Kick Hi-hat (Right click)
+
+
+░░░░░Foot pedals░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Third party tools that could help you create, use and
+configure your external foot pedal or device for use
+with the hi-hat or bass pedal.
+
+░reWASD joystick mapper
+░JoyToKey
 
 
 ░░░░░EDIT MODE░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Entering EDIT MODE will allow you to move the position
-of your drums.
+of your drums. When you enter EDIT MODE you will see
+orange and blue boxes appear on your drumkit.
 
-Enter EDIT MODE (Left primary button)
-Grab Drum (Right grip trigger)
+░Enter EDIT MODE (Left primary button)
+░Exit EDIT MODE (Left primary button)
+░Grab Drum (Right grip trigger)
 
 
 ░░░░░Moving a Drum░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
@@ -81,25 +100,30 @@ again to leave EDIT MODE.
 
 To capture with OBS, right click the source and make
 sure the capture method is set to Windows 10 (1903 and
-up).
+up). Tracking performance is everything and streaming
+at high bitrates can cause tracking performance to dip.
+Make sure to configure your settings acordingly if you 
+are low on system resources.
 
 
 ░░░░░Display░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 VRDUS will launch fullscreen. To minimize VRDUS into a
-desktop window press Alt + Enter.
+moveable desktop window press Alt + Enter while in game.
 
 
 ░░░░░MIDI░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-To have VR Drums Ultimate Streamer communicate to a MIDI
-controller. Launch the MidiBridge.exe located in the 
-games root installation folder.
+To have VR Drums Ultimate Streamer communicate to a 
+internal or external controller MIDI synthesizer. Launch
+the MidiBridge.exe file located in VRDUS root 
+installation folder.
 
 Once loaded MidiBridge.exe will scan Windows for any
-connected MIDI devices. Once your external or internal
-MIDI synthesizer has been recognized, it will now 
-communicate between VRDUS and your MIDI synthesizer.
+connected MIDI devices, running on Windows or connected
+to Windows. Once your external or internal MIDI 
+synthesizer has been recognized, it will now communicate 
+to VRDUS while the game is running.
 
 Detail MIDI information is listed below.
 
@@ -143,3 +167,7 @@ https://store.steampowered.com/app/2354400/
 
 Project💾
 https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer
+
+YouTube
+https://www.Youtube.com/@AlienCyberCoat
+
