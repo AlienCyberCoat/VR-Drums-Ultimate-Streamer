@@ -77,6 +77,19 @@ exit the drums menu. Press the (Left primary button)
 again to leave EDIT MODE.
 
 
+░░░░░Streaming░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+To capture with OBS, right click the source and make
+sure the capture method is set to Windows 10 (1903 and
+up).
+
+
+░░░░░Display░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+VRDUS will launch fullscreen. To minimize VRDUS into a
+desktop window press Alt + Enter.
+
+
 ░░░░░MIDI░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To have VR Drums Ultimate Streamer communicate to a MIDI
