@@ -106,26 +106,16 @@ EDIT MODE.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e3498d85-3cd1-45d9-83ff-4249d2f248af)
 
-Hold your left hand over the blue cube of the
-drum you wish to change. 
+Hold your left hand over the blue cube of the drum you wish to change. 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fe83c593-7d95-413d-8b3d-3adfd5525184)
 
-The drums menu will appear.
-Choose your drum from the selection with your right hand
-laser pointer. Remove your left hand from blue cube to
-exit the drums menu. Press the (Left primary button)
-again to leave EDIT MODE.
+The drums menu will appear. Choose your drum from the selection with your right hand laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT BUTTON / Left primary button) again to leave EDIT MODE.
 
 
 ░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-To capture with OBS, right click the source and make
-sure the capture method is set to Windows 10 (1903 and
-up). Tracking performance is everything and streaming
-at high bitrates can cause tracking performance to dip.
-Make sure to configure your settings acordingly if you 
-are low on system resources.
+To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Tracking performance is everything and streaming at high bitrates can cause tracking performance to dip. Make sure to configure your settings acordingly if you are low on system resources.
 
 
 ░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
