@@ -40,7 +40,8 @@ posistioning controls are listed below.
 
 ░Position Lower (Left second primary button)
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d94e33fd-3b61-4a0b-8342-fca2617a5844)
+![OculusControllersVRDUS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/2360ec99-1534-4556-bd1a-5917cc7796cd)
+
 
 
 
