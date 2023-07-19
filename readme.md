@@ -217,5 +217,4 @@ https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer
 YouTube
 https://www.Youtube.com/@AlienCyberCoat
 
-(gideon2.jpg)
-
+(https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/862adc09ca6bf8cc9d0d9fa836e710881d9310f8/gideon2.jpg)
