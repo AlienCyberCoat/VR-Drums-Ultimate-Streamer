@@ -116,19 +116,15 @@ moveable desktop window press Alt + Enter while in game.
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-To have VR Drums Ultimate Streamer communicate to an internal or with external hardware like a MIDI synthesizer connected to Windows. Launch the MidiBridge.exe file located in VRDUSroot installation folder.
+To have VR Drums Ultimate Streamer communicate to an internal MIDI synthesizer (Windows comes with a MIDI synthesizer build into it: the Microsoft GS Wavetable synth) or with external hardware like a synthesizer using MIDI, connected to Windows. Launch the MidiBridge.exe file located in VRDUS root installation folder.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/159b793f-310e-474b-9e2b-6b7eeaf0c688)
 
-Once loaded MidiBridge.exe will scan Windows for any
-connected MIDI devices, running on Windows or connected
-to Windows using MIDI. 
+Once loaded MidiBridge.exe will scan Windows OS for any connected MIDI synthesizer or devices running on Windows or connected to Windows using Windows MIDI. 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9d7eee8b-b7f4-418c-82e5-54226ce6b268)
 
-Once your external or internal MIDI 
-synthesizer has been recognized, it will now communicate 
-to VRDUS while the game is running.
+Once your external or internal MIDI synthesizer has been recognized by MIDIBridge.exe it will accept the connection with it and now be able to communicate with VR Drums Ultimate Streamer. You can now launch VR Drums Ultimate Streamer.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6cc20db1-2491-4cb3-9976-ffb87ec90b1a)
 
