@@ -206,6 +206,12 @@ dry Crash --ch1 Note#26
 china Crash --ch1 Note#25
 
 
+░░░░░**VR**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+Programmed to track headsets and devices that support OpenXR, Oculus, VIve etc. Vive XR launch option is currently in this Steam build for testing. Vive headset tracks, the remotes are not fully tested and may conflict. An updated version with fully tested Vive tested support is coming soon. Please send us your issues and we will address them quickly. We have a couple keys for Vive testing, contact us if your are interested.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d664eab4-ae8f-4013-af1d-06bce5fd69f3)
+
+
 ░░░░░**MISC**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Available on Steam💾
