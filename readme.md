@@ -130,61 +130,61 @@ to VRDUS while the game is running.
 Detail MIDI information is listed below.
 
 MIDI Detail
-snare ch1 Note#48
+snare --ch1 Note#48
 
-tom1 ch1 Note#47
+tom1 --ch1 Note#47
 
-tom2 ch1 Note#46
+tom2 --ch1 Note#46
 
-tom3 ch1 Note#45
+tom3 --ch1 Note#45
 
-tom4 ch1 Note#44
+tom4 --ch1 Note#44
 
-ride2 ch1 Note#43
+ride2 --ch1 Note#43
 
-ride2bell ch1 Note#42
+ride2bell --ch1 Note#42
 
-ride1 ch1 Note#41
+ride1 --ch1 Note#41
 
-ride1bell ch1 Note#40
-
-
-crash2 ch1 Note#39
-
-crash1 ch1 Note#38
+ride1bell --ch1 Note#40
 
 
-splash6 ch1 Note#37
+crash2 --ch1 Note#39
 
-splash8 ch1 Note#36
-
-splash10 ch1 Note#35
+crash1 --ch1 Note#38
 
 
+splash6 --ch1 Note#37
 
-cow3 ch1 Note#34
+splash8 --ch1 Note#36
 
-cow2 ch1 Note#33
-
-cow2 ch1 Note#32
-
-
-bass ch1 Note#31
+splash10 --ch1 Note#35
 
 
-highHat CloseTap ch1 Note#30
 
-highHat Open Strike Hit ch1 Note#29
+cow3 --ch1 Note#34
 
-highHat Closed Strike Hit ch1 Note#28
+cow2 --ch1 Note#33
 
-highHat Quick Relase ch1 Note#27
-
-
-dry Crash ch1 Note#26
+cow2 --ch1 Note#32
 
 
-china Crash ch1 Note#25
+bass --ch1 Note#31
+
+
+highHat CloseTap --ch1 Note#30
+
+highHat Open Strike Hit --ch1 Note#29
+
+highHat Closed Strike Hit --ch1 Note#28
+
+highHat Quick Relase --ch1 Note#27
+
+
+dry Crash --ch1 Note#26
+
+
+china Crash --ch1 Note#25
 
 
 ░░░░░**MISC**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
