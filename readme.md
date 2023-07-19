@@ -127,6 +127,9 @@ to Windows. Once your external or internal MIDI
 synthesizer has been recognized, it will now communicate 
 to VRDUS while the game is running.
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8e7f678e-4cb9-4cd4-bf2a-f5ffe54c28e3)
+
+
 Detail MIDI information is listed below.
 
 **MIDI Detail**
