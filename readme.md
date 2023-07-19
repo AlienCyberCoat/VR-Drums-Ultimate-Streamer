@@ -1,4 +1,5 @@
-(https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/cf0b627a204fd51ad99d96e1cc089171996f323a/VRDUS_logo.png)
+![alt text]([http://url/to/img.png](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/cf0b627a204fd51ad99d96e1cc089171996f323a/VRDUS_logo.png))
+
 
 ░░░░░Operations░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
