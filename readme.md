@@ -115,13 +115,12 @@ The drums menu will appear. Choose your drum from the selection with your right 
 
 ░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Tracking performance is everything and streaming at high bitrates can cause tracking performance to dip. Make sure to configure your settings acordingly if you are low on system resources.
+To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Tracking performance is everything and streaming at while quality can cause tracking performance to dip. Make sure to configure and test your settings acordingly if you are low on system resources.
 
 
 ░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-VRDUS will launch fullscreen. To minimize VRDUS into a
-moveable desktop window press Alt + Enter while in game.
+VRDUS will launch fullscreen. To minimize VRDUS into a moveable desktop window press Alt + Enter while in game.
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
