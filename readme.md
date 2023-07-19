@@ -129,7 +129,8 @@ to VRDUS while the game is running.
 
 Detail MIDI information is listed below.
 
-MIDI Detail
+**MIDI Detail**
+
 snare --ch1 Note#48
 
 tom1 --ch1 Note#47
