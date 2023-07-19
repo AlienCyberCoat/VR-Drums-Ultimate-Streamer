@@ -136,7 +136,7 @@ Example of a hit in VR Drums Ultimate Streamer being processed in MIDIBridge.exe
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8e7f678e-4cb9-4cd4-bf2a-f5ffe54c28e3)
 
 
-Detail MIDI information is listed below.
+Detail MIDI information is listed below for customizing the sounds VR Drums Ultimate Streamer makes.
 
 **MIDI Detail**
 
