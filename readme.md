@@ -129,10 +129,10 @@ to Windows using MIDI.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9d7eee8b-b7f4-418c-82e5-54226ce6b268)
 
-
 Once your external or internal MIDI 
 synthesizer has been recognized, it will now communicate 
 to VRDUS while the game is running.
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6cc20db1-2491-4cb3-9976-ffb87ec90b1a)
 
 Example of hits on VR Drums Ultimate Streamer being processed in MIDIBridge.exe
