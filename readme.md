@@ -130,7 +130,7 @@ It's now waiting for a connection from a MIDI controller, we will use VR Drums U
 
 Now launch VR Drums Ultimate Streamer. MIDIBridge.exe will accept the connection from VR Drums Ultimate Streamer.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6cc20db1-2491-4cb3-9976-ffb87ec90b1a)
+![ImageGlass_1b0DvtdxOb](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/96516ba0-b19e-4cd2-a465-2af2a2eb28d1)
 
 Example of hits on VR Drums Ultimate Streamer being processed in MIDIBridge.exe
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8e7f678e-4cb9-4cd4-bf2a-f5ffe54c28e3)
