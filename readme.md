@@ -111,7 +111,7 @@ EDIT MODE.
 Hold your left hand over the blue cube of the
 drum you wish to change. 
 
-![Uploading image.png…]()
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fe83c593-7d95-413d-8b3d-3adfd5525184)
 
 The drums menu will appear.
 Choose your drum from the selection with your right hand
