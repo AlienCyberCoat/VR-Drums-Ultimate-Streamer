@@ -11,7 +11,7 @@ will launch. Put your VR unit on your head and launch
 the game. Center yourself in your play area. The game 
 will start.
 
-░Launch Options
+Launch Options
 
 ░Default 
 **Lauanch with no VR.
