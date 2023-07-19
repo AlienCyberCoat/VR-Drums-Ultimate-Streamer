@@ -122,7 +122,7 @@ To have VR Drums Ultimate Streamer communicate to an internal MIDI synthesizer (
 
 Once loaded MidiBridge.exe will scan Windows OS for any connected MIDI synthesizer or devices running on Windows or connected to Windows using Windows MIDI and reconize it under DEVICE NAME.
 
-**In this case an internal software MIDI synthesizer that comes standard and built into Windows OS. The Microsoft GS Wavetable synth.
+**In this case an internal software MIDI synthesizer that comes standard and built into Windows OS. The Microsoft GS Wavetable Synth.
 
 It is now waiting for a connection from a MIDI controller, we will use VR Drums Ultimates Streamer as the controller.
 
