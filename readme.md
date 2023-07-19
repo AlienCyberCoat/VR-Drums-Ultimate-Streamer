@@ -12,7 +12,9 @@ the game. Center yourself in your play area. The game
 will start.
 
 ░Launch Options
-Default - Lauanch with no VR.
+
+Default 
+**Lauanch with no VR.
 
 Launch Ocuulus SDK App 
 **The option you want to use when using an Oculus VR
