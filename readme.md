@@ -93,7 +93,7 @@ To move a drum location press (Left primary button) to enter EDIT MODE.
 
 ![OculusControllersVRDUSEDITGrab](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e072ec02-54a2-40d8-addd-373e994eb62f)
 
-Grab the orange cube of the drum you want to move with your right hand and squeeze and hold the (Right grip trigger), now move your desired location. Once you are happy with the location unsqueeze the (Right grip trigger).
+Grab the orange cube of the drum you want to move with your right hand and squeeze and hold the (GRAB DRUM / Right grip trigger), now move your desired location. Once you are happy with the location unsqueeze the (Right grip trigger).
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/2b6e5d71-21f1-4c0a-b0de-7ded707a28eb)
 
