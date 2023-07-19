@@ -124,7 +124,7 @@ Once loaded MidiBridge.exe will scan Windows OS for any connected MIDI synthesiz
 
 **In this case an internal software MIDI synthesizer that comes standard and built into Windows OS. The Microsoft GS Wavetable Synth.
 
-It is now waiting for a connection from a MIDI controller, we will use VR Drums Ultimates Streamer as the controller.
+It's now waiting for a connection from a MIDI controller, we will use VR Drums Ultimates Streamer as the controller.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9d7eee8b-b7f4-418c-82e5-54226ce6b268)
 
