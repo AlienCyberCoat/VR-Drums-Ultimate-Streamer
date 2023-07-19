@@ -63,7 +63,7 @@ Square, Triangle]
 **Kick Hi-hat (Right click)
 
 
-░░░░░**Pedals Customization**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Pedal Customization**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Third party tools that could help you create, use and
 configure your external foot pedal or device for use
