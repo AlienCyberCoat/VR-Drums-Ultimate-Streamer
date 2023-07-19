@@ -1,4 +1,4 @@
-![alt text](http://url/to/img.png](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/VRDUS_logo.png)
+![alt text](VRDUS_logo.png)
 
 
 
