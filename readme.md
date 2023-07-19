@@ -45,8 +45,6 @@ posistioning controls are listed below.
 
 ░░░░░**External Pedal Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-![OculusControllersVRDUS_Pedals](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/eb78317f-6e59-4de1-a9cd-8f44f804102b)
-
 
 ░VR Controllers
 **See diagram above
@@ -63,6 +61,8 @@ Square, Triangle]
 ░Mouse
 **Kick Bass (Left click)
 **Kick Hi-hat (Right click)
+
+![OculusControllersVRDUS_Pedals](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/eb78317f-6e59-4de1-a9cd-8f44f804102b)
 
 
 ░░░░░**Pedal Customization**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
