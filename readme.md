@@ -46,13 +46,13 @@ posistioning controls are listed below.
 **Kick Bass (Space key)
 
 ░Gamepad
-Kick Bass (Button 2/3) South/East [XBOX, A,B][PS X,O]
-Kick Hi-hat (Button 4/5) North/West [XBOX, X, Y][PS
+**Kick Bass (Button 2/3) South/East [XBOX, A,B][PS X,O]
+**Kick Hi-hat (Button 4/5) North/West [XBOX, X, Y][PS
 Square, Triangle]
 
 ░Mouse
-Kick Bass (Left click)
-Kick Hi-hat (Right click)
+**Kick Bass (Left click)
+**Kick Hi-hat (Right click)
 
 
 ░░░░░**Foot pedals**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
