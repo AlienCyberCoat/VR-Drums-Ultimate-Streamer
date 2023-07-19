@@ -101,8 +101,7 @@ Wait for the orange cube to resize and lock the drum into place. The drum is now
 
 ░░░░░**Change an Instrument**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-To change a drum press the (Left primary button) to enter
-EDIT MODE.
+To change a drum press the (Left primary button) to enter EDIT MODE.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e3498d85-3cd1-45d9-83ff-4249d2f248af)
 
