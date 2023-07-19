@@ -13,17 +13,17 @@ will start.
 
 Launch Options
 
-░**Default **
+░Default
 **Lauanch with no VR.
 
-░**Launch Ocuulus SDK App **
+░Launch Ocuulus SDK App
 **The option you want to use when using an Oculus VR
 headset.
 
-░**Launch with OpenXR device support (Vive)(Beta testing)**
+░Launch with OpenXR device support (Vive)(Beta testing)
 **For testing with the Vive VR headset.
 
-░**Launch with OpenXR application (Vive)(Beta testing)**
+░Launch with OpenXR application (Vive)(Beta testing)
 **For testing with the Vive VR headset.
 
 
