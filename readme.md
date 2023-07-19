@@ -40,10 +40,12 @@ posistioning controls are listed below.
 
 ░Position Lower (Left second primary button)
 
-![OculusControllersVRDUS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/20278981-9208-4c95-829e-44cd34963691)
+![OculusControllersVRDUS_POS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0f782d95-bda6-44bf-8e7f-7b95575c9a04)
 
 
 ░░░░░**External Pedal Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+![OculusControllersVRDUS_Pedals](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/eb78317f-6e59-4de1-a9cd-8f44f804102b)
 
 
 ░VR Controllers
