@@ -42,8 +42,8 @@ posistioning controls are listed below.
 
 
 ░Keyboard
-Kick Hi-hat (K key)
-Kick Bass (Space key)
+**Kick Hi-hat (K key)
+**Kick Bass (Space key)
 
 ░Gamepad
 Kick Bass (Button 2/3) South/East [XBOX, A,B][PS X,O]
