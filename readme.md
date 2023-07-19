@@ -121,12 +121,22 @@ internal or external controller MIDI synthesizer. Launch
 the MidiBridge.exe file located in VRDUS root 
 installation folder.
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/159b793f-310e-474b-9e2b-6b7eeaf0c688)
+
 Once loaded MidiBridge.exe will scan Windows for any
 connected MIDI devices, running on Windows or connected
-to Windows. Once your external or internal MIDI 
+to Windows. 
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9d7eee8b-b7f4-418c-82e5-54226ce6b268)
+
+
+Once your external or internal MIDI 
 synthesizer has been recognized, it will now communicate 
 to VRDUS while the game is running.
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6cc20db1-2491-4cb3-9976-ffb87ec90b1a)
+
+Example of hits on VR Drums Ultimate Streamer being processed in MIDIBridge.exe
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8e7f678e-4cb9-4cd4-bf2a-f5ffe54c28e3)
 
 
