@@ -109,7 +109,11 @@ EDIT MODE.
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e3498d85-3cd1-45d9-83ff-4249d2f248af)
 
 Hold your left hand over the blue cube of the
-drum you wish to change. The drums menu will appear.
+drum you wish to change. 
+
+![Uploading image.png…]()
+
+The drums menu will appear.
 Choose your drum from the selection with your right hand
 laser pointer. Remove your left hand from blue cube to
 exit the drums menu. Press the (Left primary button)
