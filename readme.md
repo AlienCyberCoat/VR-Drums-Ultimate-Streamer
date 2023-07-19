@@ -117,8 +117,8 @@ moveable desktop window press Alt + Enter while in game.
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To have VR Drums Ultimate Streamer communicate to an 
-internal or external controller MIDI synthesizer. Launch
-the MidiBridge.exe file located in VRDUS root 
+internal or with an external controller MIDI synthesizer. 
+Launch the MidiBridge.exe file located in VRDUS root 
 installation folder.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/159b793f-310e-474b-9e2b-6b7eeaf0c688)
