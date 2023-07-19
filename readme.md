@@ -43,7 +43,7 @@ posistioning controls are listed below.
 ![OculusControllersVRDUS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/caa48240-5ed6-4f69-b62b-d448809ccc7c)
 
 
-░░░░░**Pedal Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**External Pedal Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
 ░Keyboard
