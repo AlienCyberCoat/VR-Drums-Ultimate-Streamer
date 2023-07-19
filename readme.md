@@ -86,8 +86,6 @@ Player in EDIT MODE example.
 
 ░Exit EDIT MODE (Left primary button)
 
-░Grab Drum (Right grip trigger)
-
 
 ░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
