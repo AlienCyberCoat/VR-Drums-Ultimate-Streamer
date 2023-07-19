@@ -132,7 +132,7 @@ Now launch VR Drums Ultimate Streamer. MIDIBridge.exe will accept the connection
 
 ![ImageGlass_1b0DvtdxOb](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/66564b6c-84a0-4f84-ac20-efe4b554490e)
 
-Example of hits on VR Drums Ultimate Streamer being processed in MIDIBridge.exe
+Example of a hit in VR Drums Ultimate Streamer being processed in MIDIBridge.exe
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8e7f678e-4cb9-4cd4-bf2a-f5ffe54c28e3)
 
 
