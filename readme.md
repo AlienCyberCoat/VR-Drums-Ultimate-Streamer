@@ -122,6 +122,7 @@ the MidiBridge.exe file located in VRDUS root
 installation folder.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/159b793f-310e-474b-9e2b-6b7eeaf0c688)
+
 Once loaded MidiBridge.exe will scan Windows for any
 connected MIDI devices, running on Windows or connected
 to Windows. 
