@@ -3,7 +3,7 @@
 
 
 
-░░░░░**Operations**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Operations**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Select VR Drums Ultimate Steamer from your library in
 Steam. Select PLAY and the launch options for the game
@@ -27,7 +27,7 @@ Launch with OpenXR application (Vive)(Beta testing)
 **For testing with the Vive VR headset.
 
 
-░░░░░**Player Positioning**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Player Positioning**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Use your VR controllers to position yourself. The 
 posistioning controls are listed below.
@@ -43,7 +43,7 @@ posistioning controls are listed below.
 ![OculusControllersVRDUS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/caa48240-5ed6-4f69-b62b-d448809ccc7c)
 
 
-░░░░░**Extended Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Pedal Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
 ░Keyboard
@@ -60,7 +60,7 @@ Square, Triangle]
 **Kick Hi-hat (Right click)
 
 
-░░░░░**Foot pedals**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Foot pedals**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Third party tools that could help you create, use and
 configure your external foot pedal or device for use
@@ -70,7 +70,7 @@ with the hi-hat or bass pedal.
 ░JoyToKey
 
 
-░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Entering EDIT MODE will allow you to move the position
 of your drums. When you enter EDIT MODE you will see
@@ -81,7 +81,7 @@ orange and blue boxes appear on your drumkit.
 ░Grab Drum (Right grip trigger)
 
 
-░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To move a drum location press (Left primary button) to
 enter EDIT MODE. Grab the orange cube of the drum you
@@ -92,7 +92,7 @@ drum is now locked in place. Tap (Left primary button)
 to exit EDIT MODE.
 
 
-░░░░░**Change an Instrument**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Change an Instrument**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To change a drum press the (Left primary button) to enter
 EDIT MODE. Hold your left hand over the blue cube of the
@@ -103,7 +103,7 @@ exit the drums menu. Press the (Left primary button)
 again to leave EDIT MODE.
 
 
-░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To capture with OBS, right click the source and make
 sure the capture method is set to Windows 10 (1903 and
@@ -113,13 +113,13 @@ Make sure to configure your settings acordingly if you
 are low on system resources.
 
 
-░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 VRDUS will launch fullscreen. To minimize VRDUS into a
 moveable desktop window press Alt + Enter while in game.
 
 
-░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To have VR Drums Ultimate Streamer communicate to an internal MIDI synthesizer (Windows comes with a MIDI synthesizer build into it: the Microsoft GS Wavetable synth) or with external hardware like a synthesizer using MIDI, connected to Windows. Launch the MidiBridge.exe file located in VRDUS root installation folder.
 
