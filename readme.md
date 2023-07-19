@@ -80,7 +80,9 @@ Entering EDIT MODE will allow you to move the position of your drums as well as 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6eba4952-a1f9-4a60-ac27-1efc1e7dc931)
 
 ░Enter EDIT MODE (Left primary button)
+
 ░Exit EDIT MODE (Left primary button)
+
 ░Grab Drum (Right grip trigger)
 
 
