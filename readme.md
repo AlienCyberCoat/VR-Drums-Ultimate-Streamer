@@ -75,9 +75,7 @@ with the hi-hat or bass pedal.
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Entering EDIT MODE will allow you to move the position
-of your drums. When you enter EDIT MODE you will see
-orange and blue boxes appear on your drumkit.
+Entering EDIT MODE will allow you to move the position of your drums as well as chanage the intrument itself. When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6eba4952-a1f9-4a60-ac27-1efc1e7dc931)
 
