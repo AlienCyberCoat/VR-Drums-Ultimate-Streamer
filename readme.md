@@ -89,7 +89,11 @@ Entering EDIT MODE will allow you to move the position of your drums as well as 
 ░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To move a drum location press (Left primary button) to
-enter EDIT MODE. Grab the orange cube of the drum you
+enter EDIT MODE. 
+
+![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b5b36fd2-dc87-433c-b85a-deef60ad493a)
+
+Grab the orange cube of the drum you
 want to move with your right hand and pull the (Right
 grip trigger) to set the new location. Wait for the
 orange cube to resize and lock the drum into place. The
@@ -100,7 +104,11 @@ to exit EDIT MODE.
 ░░░░░**Change an Instrument**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To change a drum press the (Left primary button) to enter
-EDIT MODE. Hold your left hand over the blue cube of the
+EDIT MODE.
+
+![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e3498d85-3cd1-45d9-83ff-4249d2f248af)
+
+Hold your left hand over the blue cube of the
 drum you wish to change. The drums menu will appear.
 Choose your drum from the selection with your right hand
 laser pointer. Remove your left hand from blue cube to
