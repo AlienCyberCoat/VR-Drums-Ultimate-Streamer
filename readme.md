@@ -46,6 +46,9 @@ posistioning controls are listed below.
 ░░░░░**External Pedal Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
+░VR Controllers
+**See diagram above
+
 ░Keyboard
 **Kick Hi-hat (K key)
 **Kick Bass (Space key)
