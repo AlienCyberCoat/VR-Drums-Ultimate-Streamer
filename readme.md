@@ -3,7 +3,7 @@
 
 
 
-░░░░░**Operations**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Operations**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Select VR Drums Ultimate Steamer from your library in
 Steam. Select PLAY and the launch options for the game
@@ -27,7 +27,7 @@ headset.
 ********|For testing with the Vive VR headset.
 
 
-░░░░░**Player Positioning**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Player Positioning**░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Use your VR controllers to position yourself. The 
 posistioning controls are listed below.
@@ -43,7 +43,7 @@ posistioning controls are listed below.
 ![OculusControllersVRDUS_POS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0f782d95-bda6-44bf-8e7f-7b95575c9a04)
 
 
-░░░░░**External Pedal Controls**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**External Pedal Controls**░░░░░░░░░░░░░░░░░░░░░
 
 
 ░Keyboard
@@ -62,7 +62,7 @@ Square, Triangle]
 ![OculusControllersVRDUS_Pedals](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/eb78317f-6e59-4de1-a9cd-8f44f804102b)
 
 
-░░░░░**Pedal Customization**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Pedal Customization**░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Third party tools that could help you create, use and
 configure your external foot pedal or device for use
@@ -72,7 +72,7 @@ with the hi-hat or bass pedal.
 ░JoyToKey
 
 
-░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Entering EDIT MODE will allow you to move the position of your drums as well as chanage the intrument itself. When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
 
@@ -87,7 +87,7 @@ Player in EDIT MODE example.
 ░Exit EDIT MODE (Left primary button)
 
 
-░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To move a drum location press (Left primary button) to enter EDIT MODE. 
 
@@ -100,7 +100,7 @@ Grab the orange cube of the drum you want to move with your right hand and squee
 Wait for the orange cube to resize and lock the drum into place. The drum is now locked in place. Tap (EDIT MODE / Left primary button) to exit EDIT MODE.
 
 
-░░░░░**Change an Instrument**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Change an Instrument**░░░░░░░░░░░░░░░░░░░░░░░░
 
 To change a drum press the (Left primary button) to enter EDIT MODE.
 
@@ -113,17 +113,17 @@ Hold your left hand over the blue cube of the drum you wish to change.
 The drums menu will appear. Choose your drum from the selection with your right hand laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT BUTTON / Left primary button) again to leave EDIT MODE.
 
 
-░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS for comfort drumming and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings acordingly if you are low on system resources.
 
 
-░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 VRDUS will launch fullscreen. To minimize VRDUS into a moveable desktop window press Alt + Enter while in game.
 
 
-░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To have VR Drums Ultimate Streamer communicate to an internal MIDI synthesizer (Windows comes with a MIDI synthesizer build into it: the Microsoft GS Wavetable synth) or with external hardware like a synthesizer using MIDI, connected to Windows. Launch the MidiBridge.exe file located in VRDUS root installation folder.
 
@@ -206,13 +206,14 @@ dry Crash --ch1 Note#26
 china Crash --ch1 Note#25
 
 
-░░░░░**VR**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**VR**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
 Programmed to track headsets and devices that support OpenXR, Oculus, VIve etc. Vive XR launch option is currently in this Steam build for testing. Vive headset tracks, the remotes are not fully tested and may conflict. An updated version with fully tested Vive tested support is coming soon. Please send us your issues and we will address them quickly. We have a couple keys for Vive testing, contact us if your are interested.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d664eab4-ae8f-4013-af1d-06bce5fd69f3)
 
 
-░░░░░**MISC**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**MISC**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Available on Steam💾
 https://store.steampowered.com/app/2354400/
