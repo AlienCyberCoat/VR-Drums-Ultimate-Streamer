@@ -30,6 +30,11 @@ Launch Options
 
 ░░░░░**Player Positioning**░░░░░░░░░░░░
 
+Click "Configuration" on the bottom right of the screen. Use the right arrow and find the Drummer tab. Use your mouse and click the arrows to move, rise, lower and rotate your player. Click the done button when you are finished.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fd8a3cd3-0b72-44b0-b365-a274a86a6577)
+
+
 Use your VR controllers to position yourself. The positioning controls are listed below.
 
 ░Position Forward (Right 2D axis click)
