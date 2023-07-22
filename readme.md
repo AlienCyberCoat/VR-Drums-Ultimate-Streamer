@@ -62,8 +62,7 @@ Square, Triangle]
 
 ![OculusControllersVRDUS_Pedals](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/eb78317f-6e59-4de1-a9cd-8f44f804102b)
 
-![ViveController_Both](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/76c8b397-c6c0-404c-8984-cc7cd1ca6a4d)
-
+![ViveController_Both](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/4d68cf3e-5719-48a5-ba55-0efb6360740a)
 
 
 ░░░░░**Pedal Customization**░░░░░░░░░░░░░░░░░░░░░░░░░
