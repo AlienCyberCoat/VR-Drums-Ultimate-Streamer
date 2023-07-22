@@ -11,10 +11,10 @@ VR Drums Ultimate Streamer - Test Checklist
 
 
 ░░2. What Steam launch option works for you?
-a. Defualt
+a. Default
 b. Launch Oculus SDK App
-c. Launch with OpenXE device support via Steam
-d. Launch with OpenXR
+c. Launch with Steam OpenXR
+d. Launch with OpenXR (recommended)
 
 
 
