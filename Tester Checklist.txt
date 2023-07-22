@@ -13,7 +13,7 @@ Tester GitHub name (Optional):
 
 
 
-░░2. What Steam launch option works for you?
+░░2. What Steam launch option worked for you?
 a. Default
 b. Launch Oculus SDK App
 c. Launch with Steam OpenXR
@@ -21,35 +21,31 @@ d. Launch with OpenXR - Oculus / Vive (Recommended)
 
 
 
-░░3. Does your head track in game correctly?
+░░3. Does your head track in the game correctly?
 
 
 
-░░4. Does your hands track in game correctly?
+░░4. Does your hands track in the game correctly?
 
 
 
-░░5. Your 3D graphics card (GPU) (Optional)
+░░5. Does the game run smooth?
 
 
 
-░░6. Does the game run smooth?
+░░6. Can you posistion your playing using your VR controller buttons? 
 
 
 
-░░7. Can you posistion your playing using your VR controller buttons? 
+░░7. Bass pedal works by pressing your VR controller button?
 
 
 
-░░8. Bass pedal work with VR controller button?
+░░8. Hihat worsk by pressing your VR controller button?
 
 
 
-░░9. Hihat work with VR controller button?
-
-
-
-░░10. Can you move a drum with your VR controller, right grip/trigger, while in EDIT MODE?
+░░9. Can you move a drum with your VR controller, right grip/trigger, while in EDIT MODE?
 
 
 
