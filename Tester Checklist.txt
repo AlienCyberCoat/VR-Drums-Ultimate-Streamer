@@ -41,11 +41,15 @@ d. Launch with OpenXR - Oculus / Vive (Recommended)
 
 
 
-░░8. Hihat worsk by pressing your VR controller button?
+░░8. Hihat works by tapping your VR controller button?
 
 
 
-░░9. Can you move a drum with your VR controller, right grip/trigger, while in EDIT MODE?
+░░9. Hihat holds closed when holding your VR controller button?
+
+
+
+░░10. Can you move a drum with your VR controller, right grip/trigger, while in EDIT MODE?
 
 
 
