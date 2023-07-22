@@ -76,7 +76,7 @@ You can map the keyboard hihat and bass pedal keys to any device you want with t
 ░reWASD joystick mapper
 ░JoyToKey
 
-░Keyboard
+░Keyboard keys to map
 **Kick Hi-hat (K key)
 **Kick Bass (Space key)
 
