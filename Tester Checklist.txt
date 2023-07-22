@@ -29,7 +29,7 @@ d. Launch with OpenXR - Oculus / Vive (Recommended)
 
 
 
-░░5. Are your hands in the right posistion holding the sticks correctly?
+░░5. Are your hands in the correct posistion holding the sticks correctly?
 
 
 
