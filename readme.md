@@ -1,4 +1,4 @@
-![alt text](VRDUS_logo.png)
+![mainLogoTrans_final](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a977f7b0-4b3f-4410-a7fd-7f8a0c550ec1)
 
 
 
