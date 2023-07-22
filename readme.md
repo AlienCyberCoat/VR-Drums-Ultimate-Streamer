@@ -73,7 +73,7 @@ with the hi-hat or bass pedal.
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Enter EDIT MODE to move and change drums sounds in the Drum Builder menu. Exit the menu and enter VR while EDIT MODE is on. Return to the menu and disable the checkbox when you are done.
+Enter EDIT MODE to move and change drums sounds in the Drum Builder menu. Once enabled exit the menu and enter VR while EDIT MODE is on. Return to the menu and disable the checkbox when you are done. There is also a controller button to enter EDIT MODE if you wish.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6bbffa0b-41a7-4c65-b403-8ac91453e015)
 
