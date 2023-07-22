@@ -1,0 +1,55 @@
+alien cyber coat tester
+==================================================
+VR Drums Ultimate Streamer - Test Checklist
+===================================================
+░░░░░Framework░░░░░Gideon2░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+
+1. Model of VR headset?
+
+
+
+2. What Steam launch option works for you?
+a. Defualt
+b. Launch Oculus SDK App
+c. Launch with OpenXE device support via Steam
+d. Launch with OpenXR
+
+
+
+3. Does your head track in game correctly?
+
+
+
+4. Does your hands track in game correctly?
+
+
+
+5. Your 3D graphics card (GPU) (Optional)
+
+
+
+6. Does the game run smooth?
+
+
+
+7. Can you posistion your playing using your VR controller buttons?
+
+
+
+8. Bass pedal work with VR controller button?
+
+
+9. Hihat work with VR controller button?
+
+
+
+
+░░░░░░░░░░░░░░░░░░░░░░
+Thank you for your time. Enjoy the game free, testers have an impact to change the game via
+their input submissions.
+
+Tester name/nickname (Optional): 
+
+Notes: 
