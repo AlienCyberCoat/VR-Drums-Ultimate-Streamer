@@ -11,6 +11,8 @@ will launch. Put your VR unit on your head and launch
 the game. Center yourself in your play area. The game 
 will start.
 
+VRDUS can demand a lot from your computers resources. 60+ FPS is recomended for good tracking precision. Make sure your PC settings don't effect VRDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
+
 Launch Options
 
 ░Default
