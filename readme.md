@@ -71,8 +71,14 @@ Third party tools that could help you create, use and
 configure your external foot pedal or device for use
 with the hi-hat or bass pedal.
 
+You can map the keyboard hihat and bass pedal keys to any device you want with third party tools below.
+
 ░reWASD joystick mapper
 ░JoyToKey
+
+░Keyboard
+**Kick Hi-hat (K key)
+**Kick Bass (Space key)
 
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
