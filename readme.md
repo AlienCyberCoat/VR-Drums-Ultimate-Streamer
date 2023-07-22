@@ -118,7 +118,7 @@ The drums menu will appear. Choose your drum from the selection with your right 
 
 ░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Beware streaming or video capture software can demand a lot from your computers resources. This in turn can effect your available memory and resources in turn limiting VRDUS tracking precision. Make sure your capture software and settings don't effect VRVDUS performance to much for comfortable gameplay.
+Beware streaming or video capture software can demand a lot from your computers resources. Streaming or video capture software can effect your available memory and resources in turn limiting VRDUS tracking precision. Make sure your capture software and settings don't effect VRVDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
 
 To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS for comfort drumming and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings acordingly if you are low on system resources.
 
