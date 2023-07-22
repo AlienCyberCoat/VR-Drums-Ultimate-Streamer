@@ -74,8 +74,8 @@ with the hi-hat or bass pedal.
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Enter EDIT MODE to move and change drums sounds in the Drum Builder menu. Exit the menu and enter VR while EDIT MODE is on. Return to the menu and disable the checkbox when you are done.
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6bbffa0b-41a7-4c65-b403-8ac91453e015)
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6bbffa0b-41a7-4c65-b403-8ac91453e015)
 
 Entering EDIT MODE will allow you to move the position of your drums as well as chanage the intrument itself. When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
 
