@@ -37,7 +37,7 @@ d. Launch with OpenXR - Oculus / Vive (Recommended)
 
 
 
-░░7. Can you posistion your player using your VR controller buttons? 
+░░7. Can you posistion your player in game using your VR controller buttons? 
 
 
 
