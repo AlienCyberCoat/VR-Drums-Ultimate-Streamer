@@ -82,7 +82,7 @@ You can map the keyboard hihat and bass pedal keys to any device you want with t
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
 
-Click the "Configuration" button at the botton right of the main game screen and click the left arrow to find the Drum Builder menu tab.
+Click the "Configuration" button at the botton right of the main game screen and click the right arrow to find the Drum Builder menu tab.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c07d71a9-f8f3-4d97-a76d-2c8a98886e1a)
 
