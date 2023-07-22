@@ -230,7 +230,7 @@ china Crash --ch1 Note#25
 
 ░░░░░**BETA**░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-VRDUS is currently in beta and different developer settings for hits and tracking and be set under the EQ tab.
+VRDUS is currently in beta and different developer settings for hits and tracking can be set under the EQ tab. We wouldn't change these, but maybe they will work better for you.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7fbece10-9357-426f-848d-cb475b9bf883)
 
