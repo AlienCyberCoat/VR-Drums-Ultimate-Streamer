@@ -105,7 +105,7 @@ Player in EDIT MODE example.
 
 ░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░
 
-To move a drum location press (Left primary button) to enter EDIT MODE. 
+Enter EDIT MODE, see above.
 
 ![OculusControllersVRDUSEDITGrab](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e072ec02-54a2-40d8-addd-373e994eb62f)
 
