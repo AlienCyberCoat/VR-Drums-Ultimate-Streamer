@@ -18,7 +18,7 @@ Launch Options
 ░Default
 ********|Optional.
 
-░Launch Ocuulus SDK App
+░Launch Oculus SDK App
 ********|Optional.
 
 ░Launch with SteamVR OpenXR
