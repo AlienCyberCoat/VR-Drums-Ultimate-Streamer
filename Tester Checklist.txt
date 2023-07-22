@@ -29,27 +29,31 @@ d. Launch with OpenXR - Oculus / Vive (Recommended)
 
 
 
-░░5. Does the game run smooth?
+░░5. Are your hands in the right posistion holding the sticks correctly?
 
 
 
-░░6. Can you posistion your player using your VR controller buttons? 
+░░6. Does the game run smooth?
 
 
 
-░░7. Bass pedal works by pressing your VR controller button?
+░░7. Can you posistion your player using your VR controller buttons? 
 
 
 
-░░8. Hihat works by tapping your VR controller button?
+░░8. Bass pedal works by pressing your VR controller button?
 
 
 
-░░9. Hihat holds closed when holding your VR controller button?
+░░9. Hihat works by tapping your VR controller button?
 
 
 
-░░10. Can you move a drum with your VR controller, right grip/trigger, while in EDIT MODE?
+░░10. Hihat holds closed when holding your VR controller button?
+
+
+
+░░11. Can you move a drum with your VR controller, right grip/trigger, while in EDIT MODE?
 
 
 
