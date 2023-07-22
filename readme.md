@@ -11,7 +11,7 @@ will launch. Put your VR unit on your head and launch
 the game. Center yourself in your play area. The game 
 will start.
 
-VRDUS can demand a lot from your computers resources. 60+ FPS is recomended for good tracking precision. Make sure your PC settings don't effect VRDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
+VRDUS can demand a lot from your computers resources. 60+ FPS is recommended for good tracking precision. Make sure your PC settings don't effect VRDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
 
 Launch Options
 
@@ -30,8 +30,7 @@ Launch Options
 
 ░░░░░**Player Positioning**░░░░░░░░░░░░
 
-Use your VR controllers to position yourself. The 
-posistioning controls are listed below.
+Use your VR controllers to position yourself. The positioning controls are listed below.
 
 ░Position Forward (Right 2D axis click)
 
@@ -87,7 +86,7 @@ Enter EDIT MODE to move and change drums sounds in the Drum Builder menu. Once e
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6bbffa0b-41a7-4c65-b403-8ac91453e015)
 
-Entering EDIT MODE will allow you to move the position of your drums as well as chanage the intrument itself. When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
+Entering EDIT MODE will allow you to move the position of your drums as well as change the instrument itself. When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c4f0892a-146c-4d52-afe2-4f3f8563c189)
 
@@ -130,7 +129,7 @@ The drums menu will appear. Choose your drum from the selection with your right 
 
 Beware streaming or video capture software can demand a lot from your computers resources. Streaming or video capture software can effect your available memory and resources in turn limiting VRDUS tracking precision. Make sure your capture software and settings don't effect VRDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
 
-To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS for comfort drumming and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings acordingly if you are low on system resources.
+To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS for comfort drumming and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings accordingly if you are low on system resources.
 
 
 ░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░
@@ -144,11 +143,11 @@ To have VR Drums Ultimate Streamer communicate to an internal MIDI synthesizer (
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/159b793f-310e-474b-9e2b-6b7eeaf0c688)
 
-Once loaded MidiBridge.exe will scan Windows OS for any connected MIDI synthesizer or devices running on Windows or connected to Windows using Windows MIDI and reconize it under DEVICE NAME.
+Once loaded MidiBridge.exe will scan Windows OS for any connected MIDI synthesizer or devices running on Windows or connected to Windows using Windows MIDI and recognize it under DEVICE NAME.
 
 **In this case an internal software MIDI synthesizer that comes standard and built into Windows OS. The Microsoft GS Wavetable Synth.
 
-It's now waiting for a connection from a MIDI controller, we will use VR Drums Ultimates Streamer as the controller.
+It's now waiting for a connection from a MIDI controller, we will use VR Drums Ultimate Streamer as the controller.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9d7eee8b-b7f4-418c-82e5-54226ce6b268)
 
