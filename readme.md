@@ -82,7 +82,7 @@ You can map the keyboard hihat and bass pedal keys to any device you want with t
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
 
-EDIT MODE allows you to move and change drum sounds. To enter EDIT MODE click the checkbox in the Drum Builder menu. Once enabled exit the menu and enter VR while EDIT MODE is on. Return to the menu and disable the checkbox when you are done. There is also a controller button to enter EDIT MODE if you wish.
+EDIT MODE allows you to move and change drum sounds. To enter EDIT MODE click the checkbox in the Drum Builder menu. Once enabled exit the menu and enter VR while EDIT MODE is on. Read how to move your drums below. Return to the menu and disable the checkbox when you are done. There is also a controller button to enter EDIT MODE if you wish.
 
 ![Unity_0M8SRHWHaY](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5c04a943-1bcd-43db-8447-85ba8e945812)
 
