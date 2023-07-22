@@ -14,7 +14,7 @@ VR Drums Ultimate Streamer - Test Checklist
 a. Default
 b. Launch Oculus SDK App
 c. Launch with Steam OpenXR
-d. Launch with OpenXR (recommended)
+d. Launch with OpenXR - Oculus / Vive (Recommended)
 
 
 
