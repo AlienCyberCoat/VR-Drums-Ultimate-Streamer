@@ -46,12 +46,22 @@ d. Launch with OpenXR
 
 
 
+░░10. Can you move a drum with your VR controller, right grip/trigger, while in EDIT MODE?
+
+
+
+
+░░Extra notes: 
+
+
+
+
+
+
 
 ░░░░░░░░░░░░░░░░░░░░░░
-Thank you for your time. Enjoy the game free, testers have an impact to change the game via
-their input submissions.
+Thank you for your time. Testers have an impact to change the game via their input submissions and notes. See the readme if you need help https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/readme.md
 
 Tester name/nickname (Optional): 
-GitHub name (Optional):
+Tester GitHub name (Optional):
 
-Notes: 
