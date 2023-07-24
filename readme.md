@@ -19,7 +19,8 @@ Launch Options
 ░Launch Oculus SDK App
 ********|Optional.
 
-░Launch with SteamVR OpenXR **(Recommended)**
+░Launch with SteamVR OpenXR 
+********|For Oculus, Vive, any OpenXR devices. **(Recommended)**
 
 ░Launch with OpenXR
 ********|For Oculus, Vive, any OpenXR devices. **(Recommended)**
