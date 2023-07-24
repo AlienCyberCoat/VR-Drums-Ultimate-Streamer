@@ -19,11 +19,11 @@ Launch Options
 ░Launch Oculus SDK App
 ********|Optional.
 
-░Launch with SteamVR OpenXR
+░Launch with SteamVR OpenXR **(Recommended)**
 ********|Optional.
 
 ░Launch with OpenXR
-********|For Oculus, Vive, any OpenXR devices.
+********|For Oculus, Vive, any OpenXR devices. **(Recommended)**
 
 
 ░░░░░**Player Positioning**░░░░░░░░░░░
