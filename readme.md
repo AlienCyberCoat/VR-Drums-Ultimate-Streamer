@@ -93,6 +93,8 @@ Remapping software
 **Kick Bass (Left click)
 **Kick Hi-hat (Right click)
 
+You can even set your mouse on the floor and use it as a foot pedal but this is not ideal. 
+
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
 
