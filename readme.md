@@ -81,6 +81,7 @@ Third party tools that could help you create, wire your own, aid in your externa
 
 You can map the keyboard hihat and bass pedal keys to any device you want with third party tools below.
 
+Remapping software
 ░reWASD joystick mapper
 ░JoyToKey
 
