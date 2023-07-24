@@ -5,11 +5,9 @@
 
 ░░░░░**Operations**░░░░░░░░░░░░░░░░░░░
 
-Select VR Drums Ultimate Steamer from your library in
-Steam. Select PLAY and the launch options for the game
-will launch. Put your VR unit on your head and launch 
-the game. Center yourself in your play area. The game 
-will start.
+Select VR Drums Ultimate Steamer from your library in Steam. While the loading screen is up put your VR unit on your head and launch the game. Center yourself in your play area. The game  will start.
+
+![loading](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/035a46fe-cd13-45e9-91cf-3045d0b27051)
 
 VRDUS can demand a lot from your computers resources. 60+ FPS is recommended for good tracking precision. Make sure your PC settings don't effect VRDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
 
