@@ -20,7 +20,6 @@ Launch Options
 ********|Optional.
 
 ░Launch with SteamVR OpenXR **(Recommended)**
-********|Optional.
 
 ░Launch with OpenXR
 ********|For Oculus, Vive, any OpenXR devices. **(Recommended)**
