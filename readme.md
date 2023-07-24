@@ -30,7 +30,7 @@ Launch Options
 
 ░░░░░**Player Positioning**░░░░░░░░░░░░
 
-Click "Configuration" on the bottom right of the screen. Use your mouse and click the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
+Click "Configuration" on the bottom right of the screen and find player posistioning in the menu. Use your mouse and click the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
 
 ![pos](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8f2e12b5-cb68-4669-bc3b-44f02f2e3afb)
 
