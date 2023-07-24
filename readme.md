@@ -28,7 +28,7 @@ Launch Options
 ********|For Oculus, Vive, any OpenXR devices.
 
 
-░░░░░**Player Positioning**░░░░░░░░░░░░
+░░░░░**Player Positioning**░░░░░░░░░░░
 
 Click "Configuration" on the bottom right of the screen.
 
@@ -51,7 +51,7 @@ You can also use your VR controllers to position yourself on the fly in game. Th
 ![OculusControllersVRDUS_POS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0f782d95-bda6-44bf-8e7f-7b95575c9a04)
 
 
-░░░░░**External Pedal Controls**░░░░░░
+░░░░░**Foot Pedal Controls**░░░░░░░░░░
 
 
 ░Keyboard
@@ -74,9 +74,10 @@ Square, Triangle]
 
 ░░░░░**Pedal Customization**░░░░░░░░░░
 
-Third party tools that could help you create, use and
-configure your external foot pedal or device for use
-with the hi-hat or bass pedal.
+Gamepads or just about anything can be used as a foot pedal if Windows reconizes it as a gamepad device.
+Third party tools that could help you create, wire your own, aid in your external foot pedal or device for use with the hi-hat or bass pedal.
+
+![pedalUSB](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/195b516a-6315-4336-be48-5c145a67342f)
 
 You can map the keyboard hihat and bass pedal keys to any device you want with third party tools below.
 
@@ -86,6 +87,10 @@ You can map the keyboard hihat and bass pedal keys to any device you want with t
 ░Keyboard keys to map
 **Kick Hi-hat (K key)
 **Kick Bass (Space key)
+
+░Mouse button to map
+**Kick Bass (Left click)
+**Kick Hi-hat (Right click)
 
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
