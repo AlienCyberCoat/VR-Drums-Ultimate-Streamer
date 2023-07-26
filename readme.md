@@ -159,7 +159,7 @@ VRDUS will launch fullscreen. To minimize VRDUS into a moveable desktop window p
 
 Enter the configuration menu and find the tab with your drummer settings. 
 
-Check the checkbox Custom Face Texture. Enter the URL of your hosted image. It can be any image on the web. To get an image address location for use in VRDUS. Right click an image in your web browser and select "copy image address" or it maybe "copy image location" depending what browswer you are using. 
+Check the checkbox Custom Face Texture. Enter the URL of your hosted image. It can be any image on the web. To get an image address location for use in VRDUS. Right click an image in your web browser and select "copy image address" or it maybe "copy image location" depending what browswer you are using. Now paste that URL image link into the Custom Face Texture input field and press enter on your keyboard. The texture will load onto your drummers face. Exit the menu.
 
 If you would like to add a picture of your own face, or design your own makeup and custom face texture yourself. Download a copy of our "Custom Face Texture.png" which and be viewed or downloaded here.
 
@@ -167,7 +167,7 @@ If you would like to add a picture of your own face, or design your own makeup a
 
 Import the "Custom Face Texture.png" into your favorite images editor and draw anything you like on the templete. Create a new image layer, draw over or under the UV texture coordinates. When you are done, save your image, delete the UV cordinates layer and upload your new image to anywhere on the web where you can get a URL images location as mentioned above and paste that address into the "Custom Face Texture" input field on VRDUS.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b92d7da8-ced8-4d15-84db-d5a12db64a7f)
+![Unity_4QKKvGKWzr](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/07e7e947-bc49-4618-ae9d-bfd4fbb0bc4c)
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
