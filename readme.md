@@ -169,10 +169,6 @@ Import the "Custom Face Texture.png" into your favorite images editor and draw a
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b92d7da8-ced8-4d15-84db-d5a12db64a7f)
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e721961d-0d5e-438b-bab5-56d6e60de6da)
-
-
-
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
 
