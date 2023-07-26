@@ -167,7 +167,7 @@ If you would like to add a picture of your own face, or design your own makeup a
 
 https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Custom%20Face%20Texture.png
 
-Import the "Custom Face Texture.png" into your favorite images editor and draw anything you like on the templete. Create a new image layer, draw over or under the UV texture coordinates. When you are done, save your image, delete the UV cordinates layer and upload your new image to anywhere on the web where you can get a URL images location as mentioned above and paste that address into the "Custom Face Texture" input field on VRDUS.
+Import the "Custom Face Texture.png" into your favorite image editor and draw anything you like on the templete. Create a new image layer and draw anything you like over or under the UV texture coordinates, you could even place an image of your own face. When you are done, save your image, delete the UV cordinates layer and upload your new image to anywhere on the web where you can get a URL images location as mentioned above and paste that address into the "Custom Face Texture" input field on VRDUS.
 
 ![Unity_4QKKvGKWzr](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/07e7e947-bc49-4618-ae9d-bfd4fbb0bc4c)
 
