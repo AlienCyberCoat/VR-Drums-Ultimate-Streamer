@@ -49,6 +49,11 @@ You can also use your VR controllers to position yourself on the fly in game. Th
 ![OculusControllersVRDUS_POS](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0f782d95-bda6-44bf-8e7f-7b95575c9a04)
 
 
+░░░░░**Hand Positioning**░░░░░░░░░░░
+
+Click "Configuration" bottom using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Moving these can posistion the hands or drum sticks where you like.
+
+
 ░░░░░**Foot Pedal Controls**░░░░░░░░░░
 
 
