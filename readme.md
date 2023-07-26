@@ -28,7 +28,7 @@ Launch Options
 
 ░░░░░**Player Positioning**░░░░░░░░░░░
 
-Click "Configuration" bottom using your VR hand laser and pull the controllers trigger.
+Click "Configuration" botton using your VR hand laser and pull the controllers trigger.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/ba61db39-be11-43a5-b335-3a8d4378c2f3)
 
@@ -51,7 +51,7 @@ You can also use your VR controllers to position yourself on the fly in game. Th
 
 ░░░░░**Hand Positioning**░░░░░░░░░░░
 
-Click "Configuration" bottom using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Moving these can posistion the hands or drum sticks where you like.
+Click "Configuration" botton using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Moving these can posistion the hands or drum sticks where you like.
 
 
 ░░░░░**Foot Pedal Controls**░░░░░░░░░░
@@ -101,7 +101,7 @@ You can even set your mouse on the floor and use it as a foot pedal but this is 
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
 
-Click "Configuration" bottom using your VR hand laser and pull the controllers trigger.
+Click "Configuration" botton using your VR hand laser and pull the controllers trigger.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c07d71a9-f8f3-4d97-a76d-2c8a98886e1a)
 
