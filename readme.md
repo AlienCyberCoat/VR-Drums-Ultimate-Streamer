@@ -96,7 +96,7 @@ You can even set your mouse on the floor and use it as a foot pedal but this is 
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
 
-Click the "Configuration" button at the botton right of the main game screen and click the right arrow to find the Drum Builder menu tab.
+Click the "Configuration" button with your VR hand laser.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c07d71a9-f8f3-4d97-a76d-2c8a98886e1a)
 
