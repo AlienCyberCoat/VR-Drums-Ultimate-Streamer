@@ -155,6 +155,22 @@ To capture with OBS, right click the source and make sure the capture method is 
 VRDUS will launch fullscreen. To minimize VRDUS into a moveable desktop window press Alt + Enter while in game.
 
 
+░░░░░**Custom Face Textures**░░░░░░░░░░░░░░░░░░░░░░
+
+Enter the configuration menu and find the tab with your drummer settings. 
+
+Check the checkbox Custom Face Texture. Enter the URL of your hosted image. It can be any image on the web. To get an image address location for use in VRDUS. Right click an image in your web browser and select "copy image address" or it maybe "copy image location" depending what browswer you are using. 
+
+If you would like to add a picture of your own face, or design your own makeup and custom face texture yourself. Download a copy of our "Custom Face Texture.png" which and be viewed or downloaded here.
+
+https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Custom%20Face%20Texture.png
+
+Import the "Custom Face Texture.png" into your favorite images editor and draw anything you like on the templete. Create a new image layer, draw over or under the UV texture coordinates. When you are done, save your image, delete the UV cordinates layer and upload your new image to anywhere on the web where you can get a URL images location as mentioned above and paste that address into the "Custom Face Texture" input field on VRDUS.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b92d7da8-ced8-4d15-84db-d5a12db64a7f)
+
+
+
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To have VR Drums Ultimate Streamer communicate to an internal MIDI synthesizer (Windows comes with a MIDI synthesizer build into it: the Microsoft GS Wavetable synth) or with external hardware like a synthesizer using MIDI, connected to Windows. Launch the MidiBridge.exe file located in VRDUS root installation folder.
