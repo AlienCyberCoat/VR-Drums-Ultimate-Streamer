@@ -9,7 +9,7 @@ Select VR Drums Ultimate Steamer from your library in Steam. While the loading s
 
 ![loading](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/035a46fe-cd13-45e9-91cf-3045d0b27051)
 
-VRDUS can demand a lot from your computers resources. 60+ FPS is recommended for good tracking precision. Make sure your PC settings don't effect VRDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
+VRDUS can require a lot from your computers resources. 60+ FPS is recommended for good tracking precision and accuracy. Make sure your PC settings don't effect performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
 
 Launch Options
 
@@ -32,7 +32,7 @@ Click "Configuration" botton using your VR hand laser and pull the controllers t
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/ba61db39-be11-43a5-b335-3a8d4378c2f3)
 
-Find player posistion in the menu. Use your mouse and click the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
+Find player posistion in the menu. Use the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
 
 ![VRDUS_JWjL8eVb8m](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/ab57596e-21fc-46b7-9091-3462fb5c728e)
 
