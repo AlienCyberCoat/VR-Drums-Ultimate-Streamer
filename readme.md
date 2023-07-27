@@ -95,11 +95,11 @@ Remapping software
 **Kick Hi-hat (K key)
 **Kick Bass (Space key)
 
-░Mouse button to map
+░Mouse buttons to map
 **Kick Bass (Left click)
 **Kick Hi-hat (Right click)
 
-You can even set your mouse on the floor and use it as a foot pedal but this is not ideal. 
+You can even set your mouse on the floor and use it as a foot pedal but this is not ideal. If you are really in need, you can lay your keyboard on the floor and stomp on the space key. (Not recommended)
 
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
