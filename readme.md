@@ -51,11 +51,14 @@ You can also use your VR controllers to position yourself on the fly in game. Th
 
 ░░░░░**Hand Positioning**░░░░░░░░░░░
 
-Click "Configuration" botton using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Moving these can posistion the hands or drum sticks where you like.
+Click "Configuration" botton using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Use the arrows to move. Moving these can posistion your hands or drum sticks in  the posistion you like.
 
 
 ░░░░░**Foot Pedal Controls**░░░░░░░░░░
 
+░VR Controller
+**Hi-hat (Primary button: Right Controller)
+**Bass (Secondary button: Right Controller)
 
 ░Keyboard
 **Kick Hi-hat (K key)
