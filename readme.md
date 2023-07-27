@@ -140,7 +140,7 @@ Wait for the orange cube to resize and lock the drum into place. The drum is now
 
 ░░░░░**Change an Instrument**░░░░░░░░░
 
-To change a drum press the (Left primary button) to enter EDIT MODE.
+To change a drum press the (VR Controller: Left primary button) to enter EDIT MODE or you can enter it via the configuration menu.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e3498d85-3cd1-45d9-83ff-4249d2f248af)
 
@@ -148,7 +148,7 @@ Hold your left hand over the blue cube of the drum you wish to change.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fe83c593-7d95-413d-8b3d-3adfd5525184)
 
-The drums menu will appear. Your VR hand will also now have a blue selection laser you can hover over stuff to choose. Choose your drum from the selection with your right hand blue laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT BUTTON / Left primary button) again to leave EDIT MODE.
+The drums menu will appear. Your right VR hand will also now have a blue laser you can hover over stuff to choose. Choose your drum from the selection with your right hand blue laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT MODE BUTTON / VR Controller: Left primary button) again to leave EDIT MODE.
 
 
 ░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░
