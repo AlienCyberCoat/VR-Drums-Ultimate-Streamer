@@ -162,9 +162,10 @@ Enter the configuration menu and find the tab with your drummer settings.
 
 Check the checkbox Custom Face Texture. Enter the URL of your hosted image. It can be any image on the web. To get an image address location for use in VRDUS. Right click an image in your web browser and select "copy image address" or it maybe "copy image location" depending what browswer you are using. Now paste that URL image link into the Custom Face Texture input field and press enter on your keyboard. The texture will load onto your drummers face. Exit the menu.
 
-░░░░░**Adding or Texturing a Face**░░░░░░░░░░░░
-
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5bca0c24-fb1e-4b30-8bcc-937790d708d3)
+
+
+░░░░░**Adding or Texturing a Face**░░░░░░░░░░░░
 
 If you would like to add a picture of your own face, or design your own makeup and custom face texture yourself. Download a copy of our "Custom Face Texture.png" which and be viewed or downloaded here.
 
