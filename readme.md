@@ -140,7 +140,7 @@ Wait for the orange cube to resize and lock the drum into place. The drum is now
 
 ░░░░░**Change an Instrument**░░░░░░░░░
 
-To change a drum press the (VR Controller: Left primary button) to enter EDIT MODE or you can enter it via the configuration menu.
+To change a drum press the (Left primary button) to enter EDIT MODE.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e3498d85-3cd1-45d9-83ff-4249d2f248af)
 
@@ -148,22 +148,15 @@ Hold your left hand over the blue cube of the drum you wish to change.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fe83c593-7d95-413d-8b3d-3adfd5525184)
 
-The drums menu will appear. Your right VR hand will also now have a blue laser you can hover over stuff to choose. Choose your drum from the selection with your right hand blue laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT MODE BUTTON / VR Controller: Left primary button) again to leave EDIT MODE.
-
-
-░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░
-
-Beware streaming or video capture software can demand a lot from your computers resources. Streaming or video capture software can effect your available memory and resources in turn limiting VRDUS tracking precision. Make sure your capture software and settings don't effect VRDUS performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
-
-To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS for comfort drumming and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings accordingly if you are low on system resources.
+The drums menu will appear. Your VR hand will also now have a blue selection laser you can hover over stuff to choose. Choose your drum from the selection with your right hand blue laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT BUTTON / Left primary button) again to leave EDIT MODE.
 
 
 ░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░
 
-VRDUS will launch fullscreen. To minimize VRDUS into a moveable desktop window press Alt + Enter while in game.
+VR Drums Ultimate Stramer will launch fullscreen. To minimize VRDUS into a moveable desktop window press Alt + Enter while in game.
 
 
-░░░░░**Custom Face Textures**░░░░░░░░░░░░░░░░░░░░░░
+░░░░░**Custom Face Textures**░░░░░░░░░░░░
 
 Enter the configuration menu and find the tab with your drummer settings. 
 
@@ -178,6 +171,13 @@ https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Custom%20
 Import the "Custom Face Texture.png" into your favorite image editor. Create a new image layer and draw anything you like over or under the UV texture coordinates, you could even place an image of your own face. When you are done, save your image, delete the UV cordinates layer and upload your new image to anywhere on the web where you can get an URL image location as mentioned above, copy and paste that image URL address into the "Custom Face Texture" input field in VRDUS and press enter on your keyboard.
 
 ![Unity_4QKKvGKWzr](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/07e7e947-bc49-4618-ae9d-bfd4fbb0bc4c)
+
+
+░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░
+
+Beware streaming or video capture software can demand a lot from your computers resources and lower the accuracy of tracking. Make sure your capture software settings don't effect VRDUS performance to much to retain comfortable gameplay. Limiting the amount of lights in the scene can free up memory and increase FPS.
+
+To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings accordingly.
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
