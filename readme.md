@@ -282,13 +282,21 @@ Programmed to track headsets and devices that support OpenXR, Oculus, Vive etc. 
 
 ░░░░░**HELP*░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Question: I am starting the game not near the drum kit and can't get to it?
+░░**Question:** I am starting the game not near the drum kit and can't get to it?
 
-Answer: 1. Make your sure your VR headset is calibrated correctly with your sensors. 2. Use your VR hand laser and locate the red configuration button. You will see it floating in the air near the drum kit.
+**Answer:** 1. Make your sure your VR headset is calibrated correctly with your sensors. 2. Use your VR hand laser and locate the red configuration button. You will see it floating in the air near the drum kit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/913a003f-5bfd-4a3b-9059-68531f2a8a29)
 
-Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. Use the player posistion arrows by hovering your laser pointer over them and squeezing the trigger to press it. 
+Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. Use the player posistion arrows by hovering your laser pointer over them and squeeze the trigger to press them. 
+
+░░**Question:** My hands or drum sticks are pointing the right way?
+
+**Answer:** 1. Use your VR hand laser and locate the red configuration button. You will see it floating in the air near the drum kit.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/913a003f-5bfd-4a3b-9059-68531f2a8a29)
+
+Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. Look for the right and left hand posistion arrows. Hovering your VR hand laser pointer over them and squeeze the trigger to press them.
 
 
 ░░░░░**MISC**░░░░░░░░░░░░░░░░░░░░░░░░░
