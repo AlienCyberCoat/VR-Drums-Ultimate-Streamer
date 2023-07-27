@@ -290,7 +290,7 @@ Programmed to track headsets and devices that support OpenXR, Oculus, Vive etc. 
 
 Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. Use the player posistion arrows by hovering your laser pointer over them and squeeze the trigger to press them. 
 
-░░**Question:** My hands or drum sticks are pointing the right way?
+░░**Question:** My hands or drum sticks are pointing the wrong way?
 
 **Answer:** 1. Use your VR hand laser and locate the red configuration button. You will see it floating in the air near the drum kit.
 
