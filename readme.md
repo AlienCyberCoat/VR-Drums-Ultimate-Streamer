@@ -268,7 +268,7 @@ china Crash --ch1 Note#25
 
 ░░░░░**BETA**░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-VRDUS is currently in beta and different developer settings for hits and tracking can be set under the Gobal Settings tab. We wouldn't change these, but maybe they will work better for you. You can adjust each arm/stick.
+VRDUS is currently in beta and different developer settings for hits and tracking can be set under the Gobal Settings tab. We wouldn't change these, but maybe they will work better for you. You can adjust each arm/stick left/right.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7fbece10-9357-426f-848d-cb475b9bf883)
 
