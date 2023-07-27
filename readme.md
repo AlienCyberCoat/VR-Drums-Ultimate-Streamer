@@ -99,7 +99,7 @@ Remapping software
 **Kick Bass (Left click)
 **Kick Hi-hat (Right click)
 
-You can even set your mouse on the floor and use it as a foot pedal but this is not ideal. If you are really in need, you can lay your keyboard on the floor and stomp on the space key. (Not recommended)
+You can even set your mouse on the floor and use it as a foot pedal but this is not ideal. If you are really in need, you can lay your keyboard or mouse on the floor and stomp on the space key. (Not recommended)
 
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
@@ -112,7 +112,7 @@ EDIT MODE allows you to move and change drum sounds. To enter EDIT MODE click th
 
 ![Unity_0M8SRHWHaY](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5c04a943-1bcd-43db-8447-85ba8e945812)
 
-Entering EDIT MODE will allow you to move the position of your drums as well as change the instrument itself. When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
+When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c4f0892a-146c-4d52-afe2-4f3f8563c189)
 
@@ -120,9 +120,9 @@ Player in EDIT MODE example.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6eba4952-a1f9-4a60-ac27-1efc1e7dc931)
 
-░Enter EDIT MODE (Left primary button)
+░Enter EDIT MODE (VR Controller: Left primary button)
 
-░Exit EDIT MODE (Left primary button)
+░Exit EDIT MODE (VR Controller: Left primary button)
 
 
 ░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░
