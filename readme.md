@@ -288,7 +288,12 @@ Programmed to track headsets and devices that support OpenXR, Oculus, Vive etc. 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/913a003f-5bfd-4a3b-9059-68531f2a8a29)
 
-Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. Use the player posistion arrows by hovering your laser pointer over them and squeeze the trigger to press them. 
+Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. 
+
+Use the player posistion arrows by hovering your laser pointer over them and squeeze the trigger to press them. 
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b984be56-78fa-41c9-aec2-55411807206d)
+
 
 📜░░**Question:** My hands or drum sticks are pointing the wrong way?
 
