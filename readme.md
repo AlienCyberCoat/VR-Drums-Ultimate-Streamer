@@ -290,6 +290,8 @@ Programmed to track headsets and devices that support OpenXR, Oculus, Vive etc. 
 
 Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. 
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9c29a7ba-babd-4794-923e-f95f457ab152)
+
 Use the player posistion arrows by hovering your laser pointer over them and squeeze the trigger to press them. 
 
 
@@ -299,9 +301,11 @@ Use the player posistion arrows by hovering your laser pointer over them and squ
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/913a003f-5bfd-4a3b-9059-68531f2a8a29)
 
-Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. Look for the right and left hand posistion arrows. Hovering your VR hand laser pointer over them and squeeze the trigger to press them.
+Point your laser at it, squeeze the VR controller trigger to click the button. A menu will appear. 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b984be56-78fa-41c9-aec2-55411807206d)
+
+Look for the right and left hand posistion arrows. Hovering your VR hand laser pointer over them and squeeze the trigger to press them.
 
 
 ░░░░░**MISC**░░░░░░░░░░░░░░░░░░░░░░░░░
