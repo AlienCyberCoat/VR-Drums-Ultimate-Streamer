@@ -207,12 +207,15 @@ Now in game select the Note Shop.
 Now when you are in the Note Shop, select your MP3 file and your song will load in-game and ready do play along with the chart.
 
 Find your directory.
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6609553f-8217-4f59-b3bc-b7ccb2a090d3)
 
 Select the MP3. 
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/95ff3c63-cce8-457b-8ad4-1a3f9e3ae78e)
 
 Your song and chart will load and be ready to be played. You will see the album art.
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5cc7de92-a3e4-4974-ab8d-7c10a68333fe)
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9f6478af-5d49-450c-8f2f-54a31d385da3)
