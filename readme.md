@@ -200,6 +200,25 @@ paintBlack.jpg - The Album Art or any photo you like to be displayed in-game.
 paintBlack_highway.jpg - Underscore MP3 filename with _highway for the custom note highway display image in-game.
 paintBlack2.chart - Chart 2 files are not needed, it's considered advanced gameplay, if you wish to use a chart 2 file you can access more instruments, like the bass pedal, in your readable chart file in-game. More on that in "Creating Custom Charts" section.
 
+Now in game select the Note Shop.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d7882e18-695a-418d-8fb1-4fbc0a85fa5b)
+
+
+Now when you are in the Note Shop, select your MP3 file and your song will load in-game and ready do play along with the chart.
+
+Find your directory.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6609553f-8217-4f59-b3bc-b7ccb2a090d3)
+
+Select the MP3. 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/95ff3c63-cce8-457b-8ad4-1a3f9e3ae78e)
+
+Your song and chart will load and be ready to be played. You will see the album art.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5cc7de92-a3e4-4974-ab8d-7c10a68333fe)
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9f6478af-5d49-450c-8f2f-54a31d385da3)
+
+
+
 
 
 
