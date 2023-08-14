@@ -251,14 +251,14 @@ Once your file is selected another screen will now appear. None of these setting
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
 
-Now hit tab again, this part is important. Select 
+Now hit tab again, this part is important. Select Difficulty.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cbb705a1-e8ad-4dcf-8427-989d194a8378)
 
-Select Easy Guitar or your song won't be read.
+Select "Easy Guitar" or your song won't be read in VRDUS.
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a9787ccf-4aa7-4686-b73e-6d6c042c5852)
 
-You will see your setting at the top of the screen.
+You will see now the "Easy Guitar" setting at the top of the screen.
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0b734629-4920-4116-934f-6fbbcc400af0)
 
 
