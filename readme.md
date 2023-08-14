@@ -304,6 +304,8 @@ Inside the folder is the song and the .chart file. These can be copied to VRDUS 
 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
 
+Making a second chart file for the same song you can access more drums for example, the bass, ride and large crash.
+
 Just name your the second chart file the same as the first but 2. (Example metalsong.chart / metalsong2.chart)
 
 The first 5 strings will read from chart 1 (metalsong.chart). The next 3 string from chart2 (metalsong.chart).
