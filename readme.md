@@ -193,7 +193,8 @@ Sub directories are only for the song MP3 file. Named the same as the MP3 filena
 
 Everything else for the song goes in /Songs.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/45c49b48-35a0-4378-b08f-ce917b9e3320)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c8967969-014d-47fc-a73e-a2adcbbe888c)
+
 
 paintBlack.chart - The chart file
 paintBlack.jpg - The Album Art or any photo you like to be displayed in-game.
