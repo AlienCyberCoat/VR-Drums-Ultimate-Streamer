@@ -227,10 +227,14 @@ Download FeedBack. You can find the file on our GitHub VRDUS Repository. Link be
 
 https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer
 
-These are the basic note tracks for the chart for VR Drums Ultimate streamer. If you want to create an advanced chart you can create a chart 2 file with bass, ride and crash 2, more on that below soon.
+These are the basic note tracks for the chart for VR Drums Ultimate Streamer. If you want to create an advanced chart you can create a chart 2 file with bass, ride and crash 2, more on that below soon.
 
 FeedBack
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9b12014f-caf6-45fc-9e1f-3d05901e8ba9)
+
+Where the notes from FeedBack will be played on the real kit.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/358f82a0-857f-4940-9db4-a0938a7f6f3f)
+
 
 
 
