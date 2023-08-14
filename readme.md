@@ -201,8 +201,8 @@ paintBlack_highway.jpg - Underscore MP3 filename with _highway for the custom no
 paintBlack2.chart - Chart 2 files are not needed, it's considered advanced gameplay, if you wish to use a chart 2 file you can access more instruments, like the bass pedal, in your readable chart file in-game. More on that in "Creating Custom Charts" section.
 
 Now in game select the Note Shop.
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d7882e18-695a-418d-8fb1-4fbc0a85fa5b)
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d7882e18-695a-418d-8fb1-4fbc0a85fa5b)
 
 Now when you are in the Note Shop, select your MP3 file and your song will load in-game and ready do play along with the chart.
 
