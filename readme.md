@@ -187,17 +187,22 @@ To capture with OBS, right click the source and make sure the capture method is 
 
 Files can be anywhere on your computer but must follow directory structure to work when you select your .MP3 in the Note Shop. Example below. 
 
-The Directory Structure (In this case /Songs)
+The Directory Structure (In this case all our stuff is in /Songs)
 
-A subdirectory with the MP3 filename. Example here paintBlack.mp3
+Sub directories are only for the song MP3 file. Named the same as the MP3 filename.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/96eeb484-ece3-4aa0-b10f-5003bcb918b4)
+Everything else for the song goes in /Songs.
 
-Example of the MP3 in sub directory. Same name as the folder it's in.
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/863f7b59-e14b-4da6-9ae1-5d6e5dc3d387)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/45c49b48-35a0-4378-b08f-ce917b9e3320)
+
+paintBlack.chart - The chart file
+paintBlack.jpg - The Album Art or any photo you like to be displayed in-game.
+paintBlack_highway.jpg - Underscore MP3 filename with _highway for the custom note highway display image in-game.
+paintBlack2.chart - Chart 2 files are not needed, it's considered advanced gameplay, if you wish to use a chart 2 file you can access more instruments, like the bass pedal, in your readable chart file in-game. More on that in "Creating Custom Charts" section.
 
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/77c2c7b2-4d56-47c7-ac64-2c183ae0a732)
+
+
 
 
 
