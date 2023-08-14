@@ -317,7 +317,7 @@ Notes to chart on your chart 2.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/921037f1-e948-4032-b2d9-1eff4a413453)
 
-Chart 2 playing out on the real kit.
+Chart 2 color notes in FeedBack transalated to the the real kit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d9d5cd68-6689-4947-b88a-b23f5a9bd58e)
 
