@@ -231,6 +231,8 @@ These are the basic note tracks for the chart for VR Drums Ultimate Streamer. If
 
 FeedBack
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/154ef6e0-40c4-48cf-9fd5-9f3e7c30eef9)
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9b12014f-caf6-45fc-9e1f-3d05901e8ba9)
 
 Where the notes from FeedBack will be played on the real kit.
