@@ -197,8 +197,11 @@ Everything else for the song goes in /Songs.
 
 
 paintBlack.chart - The chart file
+
 paintBlack.jpg - The Album Art or any photo you like to be displayed in-game.
+
 paintBlack_highway.jpg - Underscore MP3 filename with _highway for the custom note highway display image in-game.
+
 paintBlack2.chart - Chart 2 files are not needed, it's considered advanced gameplay, if you wish to use a chart 2 file you can access more instruments, like the bass pedal, in your readable chart file in-game. More on that in "Creating Custom Charts" section.
 
 Now in game select the Note Shop.
