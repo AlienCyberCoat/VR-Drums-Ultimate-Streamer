@@ -309,9 +309,11 @@ Making a second chart file for the same song you can access more drums for examp
 Just name your the second chart file the same as the first but 2. (Example metalsong.chart / metalsong2.chart)
 
 The first 5 strings will read from chart 1 (metalsong.chart). The next 3 string from chart2 (metalsong.chart).
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8f3e8cd3-d83f-405a-aff9-f3fa312af316)
 
 Notes to chart on your chart 2.
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/921037f1-e948-4032-b2d9-1eff4a413453)
 
 
