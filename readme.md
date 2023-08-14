@@ -325,6 +325,14 @@ Chart 2 color notes in FeedBack transalated to the the real kit.
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d9d5cd68-6689-4947-b88a-b23f5a9bd58e)
 
 
+░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
+
+MP3 with the filename in a directory. The album art in the parent directory above it, just like this.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0027c713-d682-4b4d-a337-f54e20c6c305)
+
+
+
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
 
