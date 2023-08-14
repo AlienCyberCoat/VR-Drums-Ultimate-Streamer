@@ -293,8 +293,13 @@ When you are done, go to the end of your chart and hit the "E" key and type "end
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7ee63497-abaa-4b62-9fc5-3adcb9266cec)
 
+Hit Escape key to bring up the main menu. Select "Save Chart". Now located the folder you have FeedBack installed and you will find a directory under "Songs" of your new .chart file.
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/962663fc-03be-4b93-8e26-491c3f6244fb)
 
+Inside the folder is the song and the .chart file. These can be copied to VRDUS and played. See the section above this called "Play Custom Songs/Chart Files" to see where to put these files in VRDUS.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/869633b9-ced4-421a-bb62-21fbc12be50a)
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
