@@ -227,17 +227,63 @@ Download FeedBack. You can find the file on our GitHub VRDUS Repository. Link be
 
 https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6f02e3ae-baab-4c30-a077-9f39a0c08b51)
+
 These are the basic note tracks for the chart for VR Drums Ultimate Streamer. If you want to create an advanced chart you can create a chart 2 file with bass, ride and crash 2, more on that below soon.
 
-FeedBack
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/154ef6e0-40c4-48cf-9fd5-9f3e7c30eef9)
+FeedBack and the colors to drums.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9b12014f-caf6-45fc-9e1f-3d05901e8ba9)
 
 Where the notes from FeedBack will be played on the real kit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/358f82a0-857f-4940-9db4-a0938a7f6f3f)
+
+While in FeedBack hit the TAB key to bring up the main menu. Select NEW CHART.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/390fe162-68f9-4ee4-aee9-7f256bd70fe1)
+
+Locate and select your .MP3 you want to make a chart for.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/54b8c663-22db-4b3d-9d8a-f52cd96515af)
+
+Once your file is selected another screen will now appear. None of these settings matter, skip them, if anything fill in the "Charters Name". That is your name. Select exit.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
+
+Now hit tab again, this part is important. Select 
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cbb705a1-e8ad-4dcf-8427-989d194a8378)
+
+Select Easy Guitar or your song won't be read.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a9787ccf-4aa7-4686-b73e-6d6c042c5852)
+
+You will see your setting at the top of the screen.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0b734629-4920-4116-934f-6fbbcc400af0)
+
+
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cafcefbb-fbc4-44e6-bca1-f80abe29b151)
+
+up - move chart forward
+down - move chart backward
+space - play song and chart
+\ / - slow doown music played
+
+left - increase step 
+right - decrease step
+
+= increase BPM
+- decrease BPM
+
+1 key - green 
+2 key - red 
+3 key - yellow 
+4 key - blue 
+5 key - orange 
+
+
+
 
 
 
