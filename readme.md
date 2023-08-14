@@ -302,6 +302,13 @@ Inside the folder is the song and the .chart file. These can be copied to VRDUS 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/869633b9-ced4-421a-bb62-21fbc12be50a)
 
 
+░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
+
+Just name your the second chart file the same as the first but 2. (Example mychart.chart / mychart2.chart)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8f3e8cd3-d83f-405a-aff9-f3fa312af316)
+
+
+
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
 
 To have VR Drums Ultimate Streamer communicate to an internal MIDI synthesizer (Windows comes with a MIDI synthesizer build into it: the Microsoft GS Wavetable synth) or with external hardware like a synthesizer using MIDI, connected to Windows. Launch the MidiBridge.exe file located in VRDUS root installation folder.
