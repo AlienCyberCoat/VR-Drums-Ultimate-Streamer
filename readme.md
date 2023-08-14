@@ -171,7 +171,7 @@ If you would like to add a picture of your own face, or design your own makeup a
 
 https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Custom%20Face%20Texture.png
 
-Import the "Custom Face Texture.png" into your favorite image editor. Create a new image layer and draw anything you like over or under the UV texture coordinates, you could even place an image of your own face. When you are done, save your image, delete the UV cordinates layer and upload your new image to anywhere on the web where you can get an URL image location as mentioned above, copy and paste that image URL address into the "Custom Face Texture" input field in VRDUS and press enter on your keyboard.
+Import the "Custom Face Texture.png" into your favorite image editor. Create a new image layer and draw anything you like over or under the UV texture coordinates, you could even place an image of your own face. When you are done, save your image, delete the UV cordinates layer and copy and paste that image location, example "c:/images/myimage.jpg" into the "Custom Face Texture" input field in VRDUS and press enter on your keyboard.
 
 ![Unity_4QKKvGKWzr](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/07e7e947-bc49-4618-ae9d-bfd4fbb0bc4c)
 
@@ -181,6 +181,23 @@ Import the "Custom Face Texture.png" into your favorite image editor. Create a n
 Beware streaming or video capture software can demand a lot from your computers resources and lower the accuracy of tracking. Make sure your capture software settings don't effect VRDUS performance to much to retain comfortable gameplay. Limiting the amount of lights in the scene can free up memory and increase FPS.
 
 To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings accordingly.
+
+
+░░░░░**Play Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
+
+Files can be anywhere on your computer but must follow directory structure to work when you select your .MP3 in the Note Shop. Example below. 
+
+The Directory Structure (In this case /Songs)
+
+A subdirectory with the MP3 filename. Example here
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/96eeb484-ece3-4aa0-b10f-5003bcb918b4)
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/77c2c7b2-4d56-47c7-ac64-2c183ae0a732)
+
+
+
+
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
