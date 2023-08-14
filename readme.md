@@ -189,9 +189,13 @@ Files can be anywhere on your computer but must follow directory structure to wo
 
 The Directory Structure (In this case /Songs)
 
-A subdirectory with the MP3 filename. Example here
+A subdirectory with the MP3 filename. Example here paintBlack.mp3
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/96eeb484-ece3-4aa0-b10f-5003bcb918b4)
+
+Example of the MP3 in sub directory. Same name as the folder it's in.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/863f7b59-e14b-4da6-9ae1-5d6e5dc3d387)
+
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/77c2c7b2-4d56-47c7-ac64-2c183ae0a732)
 
