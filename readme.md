@@ -255,7 +255,7 @@ Now hit tab again, this part is important. Select Difficulty.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cbb705a1-e8ad-4dcf-8427-989d194a8378)
 
-Select "Easy Guitar" or your song won't be read in VRDUS.
+Select "Easy Guitar" or your song won't be read in VRDUS. Exit the menu.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a9787ccf-4aa7-4686-b73e-6d6c042c5852)
 
@@ -263,9 +263,13 @@ You will see now the "Easy Guitar" setting at the top of the screen.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0b734629-4920-4116-934f-6fbbcc400af0)
 
+You must know the BPM (beats per minute) of your .MP3 file. Set it with these keys.
+**= key** - increase BPM
+**- key** - decrease BPM
 
+Most songs have BPM listed on the internet if searched. 
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cafcefbb-fbc4-44e6-bca1-f80abe29b151)
+Start laying out your chart file.
 
 up - move chart forward
 down - move chart backward
@@ -285,11 +289,9 @@ right - decrease step
 5 key - orange 
 
 
+When you are done, go to the end of your chart and hit the "E" key and type "end" and press enter. This will place an end point of the chart.
 
-
-
-
-
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7ee63497-abaa-4b62-9fc5-3adcb9266cec)
 
 
 
