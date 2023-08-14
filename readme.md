@@ -221,8 +221,16 @@ Your song and chart will load and be ready to be played. You will see the album 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9f6478af-5d49-450c-8f2f-54a31d385da3)
 
 
+░░░░░**Create Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
 
+Download FeedBack. You can find the file on our GitHub VRDUS Repository. Link below.
 
+https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer
+
+These are the basic note tracks for the chart for VR Drums Ultimate streamer. If you want to create an advanced chart you can create a chart 2 file with bass, ride and crash 2, more on that below soon.
+
+FeedBack
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9b12014f-caf6-45fc-9e1f-3d05901e8ba9)
 
 
 
