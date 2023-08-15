@@ -242,7 +242,7 @@ Where the notes from FeedBack will be played on the real kit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/358f82a0-857f-4940-9db4-a0938a7f6f3f)
 
-While in FeedBack hit the TAB key to bring up the main menu. Select NEW CHART.
+Plcae your MP3 file in FeedBacks /Songs folder. While in FeedBack hit the TAB key to bring up the main menu. Select NEW CHART.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/390fe162-68f9-4ee4-aee9-7f256bd70fe1)
 
