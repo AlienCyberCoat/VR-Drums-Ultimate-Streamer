@@ -291,6 +291,11 @@ right - decrease step
 4 key - blue 
 5 key - orange 
 
+Tips.
+
+Bring up the VR Drums Ultimate Streamer note chart in an image editor while you are charting a song to help remember what instrument you are using.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b398513-b781-4c04-afae-c528f8808ede)
 
 When you are done, go to the end of your chart and hit the "E" key and type "end" and press enter. This will place an end point of the chart.
 
