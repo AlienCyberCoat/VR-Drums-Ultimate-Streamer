@@ -293,7 +293,7 @@ right - decrease step
 
 Tips.
 
-Bring up the VR Drums Ultimate Streamer note chart in an image editor while you are charting a song to help remember what instrument you are using.
+Bring up the VR Drums Ultimate Streamer note chart in an image editor while you are charting a song to help remember what instrument you are using. Example below.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b398513-b781-4c04-afae-c528f8808ede)
 
