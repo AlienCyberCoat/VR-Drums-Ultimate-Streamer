@@ -330,17 +330,16 @@ Chart 2 color notes in FeedBack transalated to the the real kit.
 
 You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart.
 
+A look at all the files for your song package and how they can be used.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/dd5bf67d-507c-4096-9afa-2cd72251edef)
+
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
 
 MP3 with the filename in a directory. The album art in the parent directory above it, just like this.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0027c713-d682-4b4d-a337-f54e20c6c305)
-
-A look at all the files for your song package and how they can be used.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0eb113c2-734a-436a-a978-f1b42f309ffb)
-
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
