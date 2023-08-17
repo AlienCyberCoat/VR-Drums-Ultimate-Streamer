@@ -191,7 +191,7 @@ Sub directories are only for the song MP3 file. Named the same as the MP3 filena
 
 Everything else for the song goes in /Songs.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c8967969-014d-47fc-a73e-a2adcbbe888c)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b553db9-778c-4e59-8342-a0ec65bbfc0d)
 
 paintBlack.chart - The man chart file. (required)
 
