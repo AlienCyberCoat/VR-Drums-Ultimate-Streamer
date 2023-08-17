@@ -254,7 +254,7 @@ Once your file is selected another screen will now appear. None of these setting
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
 
-Now hit tab again, select the difficulty level you would like to create a chart for.
+Now hit tab again, select the track "drums" and then difficulty to "expert drums" difficulty.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cbb705a1-e8ad-4dcf-8427-989d194a8378)
 
