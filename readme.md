@@ -318,8 +318,6 @@ The first 5 strings will read from chart 1 (metalsong.chart). While the extra in
 
 **With Advanced Chart (example: mysong_advanced.chart)** track: drums | difficulty: expert drums
 
-Hit TAB in FeedBack and set the track as drums and set your difficultly.
-
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0bd940fd-d39a-4153-a3d8-96988ea87bbf)
 
 Notes to chart on your advanced.
