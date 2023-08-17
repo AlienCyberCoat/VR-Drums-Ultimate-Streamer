@@ -334,6 +334,10 @@ A look at all the files for your song package and how they can be used.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/db0c1006-8c38-48b8-83c1-e55bc0083cc5)
 
+The .mp3 in the sub directory. 
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/67bb65bd-3074-42ab-8252-ecea18ec8c78)
+
 Only the .mp3 file and the basic .chart is required. The advanced chart and images are optional. 
 
 
@@ -342,6 +346,11 @@ Only the .mp3 file and the basic .chart is required. The advanced chart and imag
 MP3 same name of the filename as a sub directory. The album art in the parent directory above it, just like this.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fd5a2227-76f5-47c7-8af5-855d41bafb88)
+
+The .mp3 in the sub directory. 
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/67bb65bd-3074-42ab-8252-ecea18ec8c78)
+
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
