@@ -334,6 +334,8 @@ A look at all the files for your song package and how they can be used.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/db0c1006-8c38-48b8-83c1-e55bc0083cc5)
 
+Only the .mp3 file and the basic .chart is required. The advanced chart and images are optional. 
+
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
 
@@ -362,7 +364,6 @@ Now launch VR Drums Ultimate Streamer. MIDIBridge.exe will accept the connection
 
 Example of a hit in VR Drums Ultimate Streamer being processed in MIDIBridge.exe
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8e7f678e-4cb9-4cd4-bf2a-f5ffe54c28e3)
-
 
 Detail MIDI information is listed below for customizing the sounds VR Drums Ultimate Streamer makes.
 
