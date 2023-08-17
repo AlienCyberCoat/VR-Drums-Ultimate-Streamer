@@ -339,9 +339,10 @@ Only the .mp3 file and the basic .chart is required. The advanced chart and imag
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
 
-MP3 with the filename in a directory. The album art in the parent directory above it, just like this.
+MP3 same name of the filename as a sub directory. The album art in the parent directory above it, just like this.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0027c713-d682-4b4d-a337-f54e20c6c305)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/bb61f258-4e4a-4ecb-ae56-6fc7058f645d)
+
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
