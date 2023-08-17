@@ -337,6 +337,11 @@ MP3 with the filename in a directory. The album art in the parent directory abov
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0027c713-d682-4b4d-a337-f54e20c6c305)
 
+A look at all the files for your song package and how they can be used.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0eb113c2-734a-436a-a978-f1b42f309ffb)
+
+
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
 
