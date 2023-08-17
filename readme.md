@@ -332,7 +332,7 @@ You might want to bring up a refernce chart to plot the bass between the notes o
 
 A look at all the files for your song package and how they can be used.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/dd5bf67d-507c-4096-9afa-2cd72251edef)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/db0c1006-8c38-48b8-83c1-e55bc0083cc5)
 
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
