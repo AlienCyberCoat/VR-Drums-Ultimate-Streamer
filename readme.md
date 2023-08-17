@@ -108,11 +108,11 @@ Click "Configuration" botton using your VR hand laser and pull the controllers t
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c07d71a9-f8f3-4d97-a76d-2c8a98886e1a)
 
-EDIT MODE allows you to move and change drum sounds. To enter EDIT MODE click the checkbox in the Drum Builder menu. Once enabled exit the menu and enter VR while EDIT MODE is on. Read how to move your drums below. Return to the menu and disable the checkbox when you are done. There is also a controller button to enter EDIT MODE if you wish.
+EDIT MODE allows you to move and change drum sounds. To enter EDIT MODE click the checkbox in the Drum Builder menu. Once enabled exit the menu and enter VR while EDIT MODE is on. Read how to move your drums below. Return to the menu and disable the checkbox when you are done. There is also a controller button to enter EDIT MODE if you wish (Left VR controller Button 1).
 
 ![Unity_0M8SRHWHaY](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5c04a943-1bcd-43db-8447-85ba8e945812)
 
-When you enter EDIT MODE you will see orange and blue boxes appear on your drumkit. See example image below.
+When you enter EDIT MODE you will see a warning all around you that you are in EDIT MODE.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c4f0892a-146c-4d52-afe2-4f3f8563c189)
 
@@ -131,11 +131,9 @@ Enter EDIT MODE, see above.
 
 ![OculusControllersVRDUSEDITGrab](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e072ec02-54a2-40d8-addd-373e994eb62f)
 
-Grab the orange cube of the drum you want to move with your right hand and squeeze and hold the (GRAB DRUM / Right grip trigger), now move the drum to your desired location. Once you are happy with the location of the drum unsqueeze the (GRAB DRUM / Right grip trigger).
+Point your VR hand laser at the drum you want to move and squeeze and hold the (Grip trigger), now move the drum to your desired location, you can change it's distance by using your analog stick up and down while holding the drum, you can also rotate the drum while holding it using your analog stick left and right. Relase the (Grip trigger) when you are happy with the drums placement.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/2b6e5d71-21f1-4c0a-b0de-7ded707a28eb)
-
-Wait for the orange cube to resize and lock the drum into place. The drum is now locked in place. Tap (EDIT MODE / Left primary button) to exit EDIT MODE.
+You can move other objects while in EDIT MODE too.
 
 
 ░░░░░**Change an Instrument**░░░░░░░░░
