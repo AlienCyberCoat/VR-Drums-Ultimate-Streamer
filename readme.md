@@ -308,21 +308,26 @@ Inside the folder is the song and the .chart file. These can be copied to VRDUS 
 
 Making a second chart file for the same song you can access more drums for example, the bass, ride and large crash.
 
-Just name your the second chart file the same as the first but 2. (Example metalsong.chart / metalsong2.chart)
+Just name your the second chart file the same as the first but add _advanced (Example metalsong.chart / metalsong_advanced.chart)
 
-The first 5 strings will read from chart 1 (metalsong.chart). The next 3 string from chart2 (metalsong2.chart).
+The first 5 strings will read from chart 1 (metalsong.chart). While the exttra instruments on 6-9 string are being read from the advanced chart (metalsong_advanced.chart)
+
+Basic Chart (example: mysong.chart)
+With Advanced Chart (example: mysong_advanced.chart)
 
 Hit TAB in FeedBack and set the track as drums and set your difficultly.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0bd940fd-d39a-4153-a3d8-96988ea87bbf)
 
-Notes to chart on your chart 2.
+Notes to chart on your advanced.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/921037f1-e948-4032-b2d9-1eff4a413453)
 
 Chart 2 color notes in FeedBack transalated to the the real kit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d9d5cd68-6689-4947-b88a-b23f5a9bd58e)
+
+You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart.
 
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
