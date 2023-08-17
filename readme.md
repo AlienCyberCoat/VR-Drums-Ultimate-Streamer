@@ -314,9 +314,9 @@ Just name your the second chart file the same as the first but add _advanced (Ex
 
 The first 5 strings will read from chart 1 (metalsong.chart). While the extra instruments on 6-9 string are being read from the advanced chart (metalsong_advanced.chart)
 
-**Basic Chart (example: mysong.chart)
+**Basic Chart (example: mysong.chart)** track: guitar | difficulty: easy guitar
 
-With Advanced Chart (example: mysong_advanced.chart)**
+**With Advanced Chart (example: mysong_advanced.chart)** track: drums | difficulty: expert drums
 
 Hit TAB in FeedBack and set the track as drums and set your difficultly.
 
