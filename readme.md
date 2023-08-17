@@ -254,7 +254,7 @@ Once your file is selected another screen will now appear. None of these setting
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
 
-Now hit tab again, select the track "drums" and then difficulty to "expert drums" difficulty.
+Now hit tab again, select the track "gutair" and then difficultly to "easy guitar". This will be our basic drum chart.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cbb705a1-e8ad-4dcf-8427-989d194a8378)
 
@@ -307,6 +307,8 @@ Inside the folder is the song and the .chart file. These can be copied to VRDUS 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
 
 Making a second chart file for the same song you can access more drums for example, the bass, ride and large crash.
+
+Make a new chart in FeedBack and hit tab again, select the track "drums" and then difficultly to "expert drums". This will be our advance drum chart.
 
 Just name your the second chart file the same as the first but add _advanced (Example metalsong.chart / metalsong_advanced.chart)
 
