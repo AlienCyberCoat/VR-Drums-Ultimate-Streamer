@@ -118,20 +118,20 @@ When you enter EDIT MODE you will see a warning all around you that you are in E
 
 Player in EDIT MODE example.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6eba4952-a1f9-4a60-ac27-1efc1e7dc931)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fb1d269b-eeee-402b-b791-0a80be7a3dbe)
 
 ░Enter EDIT MODE (VR Controller: Left primary button)
 
-░Exit EDIT MODE (VR Controller: Left primary button)
+░Exit EDIT MODE -- Tap again (VR Controller: Left primary button)
 
 
 ░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░
 
 Enter EDIT MODE, see above.
 
-![OculusControllersVRDUSEDITGrab](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e072ec02-54a2-40d8-addd-373e994eb62f)
-
 Point your VR hand laser at the drum you want to move and squeeze and hold the (Grip trigger), now move the drum to your desired location, you can change it's distance by using your analog stick up and down while holding the drum, you can also rotate the drum while holding it using your analog stick left and right. Relase the (Grip trigger) when you are happy with the drums placement.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9fe0e8dc-353d-46b5-951e-a908879a0940)
 
 You can move other objects while in EDIT MODE too.
 
@@ -144,9 +144,9 @@ To change a drum press the (Left primary button) to enter EDIT MODE.
 
 Hold your left hand over the blue cube of the drum you wish to change. 
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fe83c593-7d95-413d-8b3d-3adfd5525184)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/138d9801-7cfb-49dd-96fd-6b23d3bb7818)
 
-The drums menu will appear. Your VR hand will also now have a blue selection laser you can hover over stuff to choose. Choose your drum from the selection with your right hand blue laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT BUTTON / Left primary button) again to leave EDIT MODE.
+The drums menu will appear. Your VR hand will also now have a blue selection laser on your right hand you can hover over stuff to choose. Choose your drum from the selection with your right hand blue laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT BUTTON / Left primary button) again to leave EDIT MODE.
 
 
 ░░░░░**Display**░░░░░░░░░░░░░░░░░░░░░░
