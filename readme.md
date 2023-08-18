@@ -258,7 +258,7 @@ Locate and select your .MP3 you want to make a chart for.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/54b8c663-22db-4b3d-9d8a-f52cd96515af)
 
-Once your file is selected another screen will now appear. None of these settings matter, skip them, if anything fill in the "Charters Name". That is your name. Select exit.
+Once your file is selected another screen will now appear. None of these settings matter, you can skip them, but if you like add in the "Charters Name", that is you. Also "Arist Name" being the band or performer. Select exit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
 
@@ -268,25 +268,35 @@ Now hit tab again, select the track "gutair" and then difficultly to "easy guita
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a9787ccf-4aa7-4686-b73e-6d6c042c5852)
 
-You must know the BPM (beats per minute) of your .MP3 file. Set it with these keys.
-**= key** - increase BPM
-**- key** - decrease BPM
+You must know the BPM (beats per minute) of your song /.MP3 file. Set the BPM in FeedBack to your songs BPM with these keys.
 
-Most songs have BPM listed on the internet if searched. 
+**equal key** - increase BPM
 
-Start laying out your chart file.
+**minus key** - decrease BPM
+
+Most songs have BPM listed on the internet if searched. If your song is not studio recorded it will probably start offset and off beat, not aligning with the grid in FeedBack. This can make charting a chore. 
+
+You can start laying out your chart file.
+
+Keys*****
 
 up - move chart forward
-down - move chart backward
-space - play song and chart
-\ / - slow doown music played
 
-left - increase step 
-right - decrease step
+down - move chart backward
+
+space - play song
+
+/ - slow down music (can help with finding a beat to chart)
+
+left - increase beat step
+
+right - decrease beat step
 
 = increase BPM
+
 - decrease BPM
 
+Keys placing Notes*****
 1 key - green 
 2 key - red 
 3 key - yellow 
@@ -295,21 +305,27 @@ right - decrease step
 
 Tips.
 
-Bring up the VR Drums Ultimate Streamer note chart in an image editor while you are charting a song to help remember what instrument you are using. Example below.
+Bring up the VR Drums Ultimate Streamer note chart image beside FeedBack editor while you are charting a song to help remember what instrument you are using. Example below.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b398513-b781-4c04-afae-c528f8808ede)
 
-When you are done, go to the end of your chart and hit the "E" key and type "end" and press enter. This will place an end point of the chart.
+Replay your song with SPACE key as much as you like and match your notes however you like.
+
+When you are done, go to the end of your song on the chart and hit the "E" key and type "end" and press enter. This will place an end point of the chart.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7ee63497-abaa-4b62-9fc5-3adcb9266cec)
 
-Hit Escape key to bring up the main menu. Select "Save Chart". Now located the folder you have FeedBack installed and you will find a directory under "Songs" of your new .chart file.
+Hit Escape key to bring up the main menu. Select "Save Chart". Now locate the folder you have FeedBack installed and you will find a directory under "Songs" of your new .chart file.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/962663fc-03be-4b93-8e26-491c3f6244fb)
 
-Inside the folder is the song and the .chart file. These can be copied to VRDUS and played. See the section above this called "Play Custom Songs/Chart Files" to see where to put these files in VRDUS.
+Inside the folder is the .mp3 and the .chart file. These can be copied to VRDUS and now played. Read below.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/869633b9-ced4-421a-bb62-21fbc12be50a)
+
+Copy the files to VR Drums Ultimate Streamers game folder VRDUS_Data\Music\Songs
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8fe143ca-df27-429b-a450-8db25b932914)
 
 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
