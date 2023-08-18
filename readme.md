@@ -194,11 +194,14 @@ Songs/korn/korn.mp3 (Required: The .mp3 file)
 The rest of the package to your song goes in /Songs. Example.
 
 Songs/korn.chart           (Required: The .chart file)
+
 Songs/korn.jpg             (Optional: The image for the album art)
+
 Songs/korn_advanced.chart  (Optional: Only needed for advanced charts)
+
 Songs/korn_highway.jpg     (Optional: Custon note highway art)
 
-Everything follow the format filename of the .mp3
+Example of another .mp3 file.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b553db9-778c-4e59-8342-a0ec65bbfc0d)
 
