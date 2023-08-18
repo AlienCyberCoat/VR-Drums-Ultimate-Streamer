@@ -327,6 +327,9 @@ Copy the files to VR Drums Ultimate Streamers game folder VRDUS_Data\Music\Songs
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8fe143ca-df27-429b-a450-8db25b932914)
 
+The song in the sub directory.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c24fda3d-2183-4751-9c01-4561ece2b5b3)
+
 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
 
