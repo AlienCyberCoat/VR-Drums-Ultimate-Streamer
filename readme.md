@@ -331,7 +331,7 @@ The song in the sub directory.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c24fda3d-2183-4751-9c01-4561ece2b5b3)
 
-You done. Load the game. Load the .mp3 file in the Note Shop.
+You're done. Load the game. Load the .mp3 file in the Note Shop. It will load the .chart file and the package contents, if you added any. (custom highway art, album art)
 
 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
