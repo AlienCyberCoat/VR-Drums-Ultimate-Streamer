@@ -274,7 +274,9 @@ You must know the BPM (beats per minute) of your song /.MP3 file. Set the BPM in
 
 **minus key** - decrease BPM
 
-Most songs have BPM listed on the internet if searched. If your song is not studio recorded it will probably start offset and off beat, not aligning with the grid in FeedBack. This can make charting a chore. 
+Most songs have BPM listed on the internet if searched. If your song is not studio recorded it will probably start offset and off beat, not aligning with the grid in FeedBack. This can make charting a chore. You can set an offset to any song in FeedBack. 
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b24d5793-3eec-44ac-98bb-f7f30bd32c19)
 
 You can start laying out your chart file.
 
@@ -344,9 +346,9 @@ Just name your the second chart file the same as the first but add _advanced (Ex
 
 The first 5 strings will read from chart 1 (metalsong.chart). While the extra instruments on 6-9 string are being read from the advanced chart (metalsong_advanced.chart)
 
-**Basic Chart (example: mysong.chart)** track: guitar | difficulty: easy guitar
+**Basic Chart (example: offspringYa.chart)** track: guitar | difficulty: easy guitar
 
-**With Advanced Chart (example: mysong_advanced.chart)** track: drums | difficulty: expert drums
+**Advanced Chart (example: offspringYa_advanced.chart)** track: drums | difficulty: expert drums
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0bd940fd-d39a-4153-a3d8-96988ea87bbf)
 
