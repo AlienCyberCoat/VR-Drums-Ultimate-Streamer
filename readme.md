@@ -32,7 +32,7 @@ Click "Config" botton using your VR hand laser and pull the controllers trigger.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e195a15e-865f-4d4c-9f4f-27aec0e79da5)
 
-Find player posistion in the menu. Use the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
+Find player posistion in the menu under the main tab. Use the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e90c3670-f15c-4d31-b85d-de0f2578a0fa)
 
