@@ -227,6 +227,10 @@ Your song and chart will load and be ready to be played. You will see the album 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9f6478af-5d49-450c-8f2f-54a31d385da3)
 
+Your controls for the note highway.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/4b3a8954-11a2-41cb-a294-52d1a1f94110)
+
 
 ░░░░░**Create Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
 
