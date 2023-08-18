@@ -28,15 +28,15 @@ Launch Options
 
 ░░░░░**Player Positioning**░░░░░░░░░░░
 
-Click "Configuration" botton using your VR hand laser and pull the controllers trigger.
+Click "Config" botton using your VR hand laser and pull the controllers trigger.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/ba61db39-be11-43a5-b335-3a8d4378c2f3)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e195a15e-865f-4d4c-9f4f-27aec0e79da5)
 
 Find player posistion in the menu. Use the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
 
-![VRDUS_JWjL8eVb8m](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/ab57596e-21fc-46b7-9091-3462fb5c728e)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e90c3670-f15c-4d31-b85d-de0f2578a0fa)
 
-You can also use your VR controllers to position yourself on the fly in game. The positioning controls are listed below.
+You can also use your VR controllers to position yourself on the fly in-game. The positioning controls are listed below.
 
 ░Position Forward (Right 2D axis click)
 
@@ -51,7 +51,9 @@ You can also use your VR controllers to position yourself on the fly in game. Th
 
 ░░░░░**Hand Positioning**░░░░░░░░░░░
 
-Click "Configuration" botton using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Use the arrows to move. Moving these can posistion your hands or drum sticks in  the posistion you like.
+Click the "Config" botton using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Use the arrows to move. Moving these can posistion your hands or drum sticks in  the posistion you like.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/231c3ee6-257f-4965-adc2-de9ce263c73b)
 
 
 ░░░░░**Foot Pedal Controls**░░░░░░░░░░
