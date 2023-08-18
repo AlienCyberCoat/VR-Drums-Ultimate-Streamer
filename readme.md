@@ -171,7 +171,7 @@ https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Custom%20
 
 Import the "Custom Face Texture.png" into your favorite image editor. Create a new image layer and draw anything you like over or under the UV texture coordinates, you could even place an image of your own face. When you are done, save your image, delete the UV cordinates layer and copy and paste that image location, example "c:/images/myimage.jpg" into the "Custom Face Texture" input field in VRDUS and press enter on your keyboard.
 
-![Unity_4QKKvGKWzr](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/07e7e947-bc49-4618-ae9d-bfd4fbb0bc4c)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7d0f422e-ef22-40d1-9586-c3c68b62348a)
 
 
 ░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░
