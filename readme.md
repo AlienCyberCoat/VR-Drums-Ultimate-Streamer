@@ -185,21 +185,24 @@ To capture with OBS, right click the source and make sure the capture method is 
 
 Files can be anywhere on your computer but must follow directory structure to work when you select your .MP3 in the Note Shop. Example below. 
 
-The Directory Structure (In this case all our stuff is in /Songs)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7ef8a560-d544-4be4-98d4-4af907e44aea)
 
-Sub directories are only for the song MP3 file. Named the same as the MP3 filename.
+Only make a sub directory for the .mp3 file in Songs. Example.
 
-Everything else for the song goes in /Songs.
+Songs/korn/korn.mp3 (Required: The .mp3 file)
+
+The rest of the package to your song goes in /Songs. Example.
+
+Songs/korn.chart           (Required: The .chart file)
+Songs/korn.jpg             (Optional: The image for the album art)
+Songs/korn_advanced.chart  (Optional: Only needed for advanced charts)
+Songs/korn_highway.jpg     (Optional: Custon note highway art)
+
+Everything follow the format filename of the .mp3
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b553db9-778c-4e59-8342-a0ec65bbfc0d)
 
-paintBlack.chart - The man chart file. (required)
-
-paintBlack.jpg - The album art or any photo you like to be displayed in-game as the album art.
-
-paintBlack_highway.jpg - Add _highway for the custom note highway display image in-game.
-
-paintBlack2.chart - Chart 2 files are not needed, it's considered advanced gameplay, if you wish to use a chart 2 file you can access more instruments, like the bass pedal, in your readable chart file in-game. More on that in "Creating Custom Charts" section.
+Note: _advanced.chart file are not needed, it's for advanced drum charts with extra instruments like bass and ride cuymbal. 
 
 Now in game select the Note Shop.
 
