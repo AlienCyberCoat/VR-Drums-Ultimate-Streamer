@@ -206,7 +206,7 @@ Select "Locations" in the config menu and select "Green Screen Room". Remove you
 OBS Software: https://obsproject.com/download
 
 
-░░░░░**Play Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
+░░░░░**Play Custom Songs on Note Highway**░░░░░░░░░░░░░░░░░░░░
 
 Files can be anywhere on your computer but must follow directory structure to work when you select your .MP3 in the Note Shop. Example below. 
 
