@@ -216,13 +216,13 @@ Make a new sub directory in /Songs name it the .mp3 filename.
 
 Example. The song "Rocketman.mp3".
 
-░Songs/
+░**Songs/**
 
 
-░░Songs/Rocketman/
+░░**Songs/Rocketman/**
 
 
-░░░Songs/Rocketman/Rocketman.mp3 (Put the .mp3 in here)
+░░░**Songs/Rocketman/**Rocketman.mp3 (Put the .mp3 in here)
 
 Drop everything else for your package in the root of /Songs directory.
 
