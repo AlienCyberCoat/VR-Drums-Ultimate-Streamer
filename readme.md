@@ -218,7 +218,9 @@ Example. The song "Rocketman.mp3".
 
 ░Songs/
 
+
 ░░Songs/Rocketman/
+
 
 ░░░Songs/Rocketman/Rocketman.mp3 (Put the .mp3 in here)
 
@@ -227,8 +229,11 @@ Drop everything else for your package in the root of /Songs directory.
 Example.
 
 ░Songs/Rocketman.chart           (Required: The .chart file)
+
 ░Songs/Rocketman.jpg             (Optional: The image for the album art)
+
 ░Songs/Rocketman_advanced.chart  (Optional: Only needed for advanced charts)
+
 ░Songs/Rocketman_highway.jpg     (Optional: Custom note highway art)
 
 Everything follows the filename of your .mp3 filename.
