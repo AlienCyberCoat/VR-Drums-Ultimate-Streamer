@@ -165,7 +165,7 @@ Check the checkbox Custom Face Texture. Enter the path to the image location (Ex
 
 ░░░░░**Adding or Texturing a Face**░░░░░░░░░░░░
 
-If you would like to add a picture of your own face to your drummer, design your own makeup, or paint a face. Download a copy of our "Custom Face Texture.png" which and be viewed or downloaded link below.
+If you would like to add a picture of your own face to your drummer, design your own makeup, or paint a face. Download a copy of our "Custom Face Texture.png" which and be viewed or downloaded by the link below.
 
 https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Custom%20Face%20Texture.png
 
