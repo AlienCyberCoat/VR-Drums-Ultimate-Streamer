@@ -175,13 +175,19 @@ The custom face templete will look like this.
 
 Import the "Custom Face Texture.png" into your favorite image editor. Create a new image layer and draw anything you like on it, use layers, you could even place an image of your own face. 
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9444d872-738a-4cc6-aade-44589051720c)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/479f4b01-f834-4560-9f53-1c263f149c87)
 
 When you are done, save your image either .JPG file or take advantage and get creative with transparent alpha layers with a .PNG file, any filename is fine "Example: "MyFace.jpg"), copy and paste that image location (Example: "C:\MyStuff\MyFace.jpg" or "Http://www.website.com/MyFace.jpg") into the "Custom Face Texture" field in VR Drums Ultimate Streamer and press enter on your keyboard.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7d0f422e-ef22-40d1-9586-c3c68b62348a)
 
-Your 
+Your image will be loaded onto the in-game model.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0044d8e6-3757-47c7-9e3b-be7c83e86e59)
+
+You can get creative and make any design you like.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8d6c65ca-d825-45c6-81b1-c01af6c805d9)
 
 
 ░░░░░**Streaming**░░░░░░░░░░░░░░░░░░░░
