@@ -212,21 +212,38 @@ Files can be anywhere on your computer but must follow directory structure to wo
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7ef8a560-d544-4be4-98d4-4af907e44aea)
 
-Only make a sub directory for the .mp3 file in Songs. Example.
+Make a new sub directory in /Songs name it the .mp3 filename.
 
-Songs/korn/korn.mp3 (Required: The .mp3 file)
+Example. The song "Rocketman.mp3".
 
-The rest of the package to your song goes in /Songs. Example.
+░Songs/
 
-Songs/korn.chart           (Required: The .chart file)
+░░Songs/Rocketman/
 
-Songs/korn.jpg             (Optional: The image for the album art)
+░░░Songs/Rocketman/Rocketman.mp3 (Put the .mp3 in here)
 
-Songs/korn_advanced.chart  (Optional: Only needed for advanced charts)
+Drop everything else for your package in the root of /Songs directory.
 
-Songs/korn_highway.jpg     (Optional: Custon note highway art)
+Example.
 
-Example of another .mp3 file.
+░Songs/Rocketman.chart           (Required: The .chart file)
+░Songs/Rocketman.jpg             (Optional: The image for the album art)
+░Songs/Rocketman_advanced.chart  (Optional: Only needed for advanced charts)
+░Songs/Rocketman_highway.jpg     (Optional: Custom note highway art)
+
+Everything follows the filename of your .mp3 filename.
+
+Use the included note highway image and the "no album image" to make your custom one.
+
+Stuff included is in the games intall folder.
+
+░VRDUS_Data\Music\Songs
+
+Make your own charts or add others to this \Songs folder. 
+
+You can have the folder anywhere on your computer or named anything as long as you followed the instructions above. 
+
+Make a good chart let us know! We will add it to our GitHub chart collection.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b553db9-778c-4e59-8342-a0ec65bbfc0d)
 
