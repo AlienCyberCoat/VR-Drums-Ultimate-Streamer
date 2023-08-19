@@ -192,6 +192,19 @@ Beware streaming or video capture software can demand a lot from your computers 
 
 To capture with OBS, right click the source and make sure the capture method is set to Windows 10 (1903 and up). Note: Good tracking performance is everything in VRDUS and streaming at high quality can cause tracking performance to dip. Make sure to configure and test your settings accordingly.
 
+OBS Software: https://obsproject.com/download
+
+
+░░░░░**Green screen**░░░░░░░░░░░░░░░░░░░░
+
+The green screen option can put you in the game. Creative and useful for making videos or streaming.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c4bc3fee-ed47-4da8-8be6-0d4a81060d66)
+
+Select "Locations" in the config menu and select "Green Screen Room". Remove your drummers head and hand model in the "Drummer" tab. Use the default green screen camera that loads, or select the "Main" tab in config and select the "GrabCam" which you can move in-game to align with your webcam layer. OBS is free software that is fully capable of blending your webcam with any green screen, and it's free, link below.
+
+OBS Software: https://obsproject.com/download
+
 
 ░░░░░**Play Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
 
