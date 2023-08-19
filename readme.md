@@ -169,13 +169,9 @@ If you would like to add a picture of your own face to your drummer, design your
 
 https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Custom%20Face%20Texture.png
 
-The custom face templete will look like this. 
+The custom face templete will look like this (left). Import the "Custom Face Texture.png" into your favorite image editor. Create a new image layer and draw anything you like on it, use layers, you could even place an image of your own face. (right)
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c2d61a4a-541d-4295-8ae9-6d532e3d3392)
-
-Import the "Custom Face Texture.png" into your favorite image editor. Create a new image layer and draw anything you like on it, use layers, you could even place an image of your own face. 
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/479f4b01-f834-4560-9f53-1c263f149c87)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0c600136-199e-446b-9da2-39d14797ec03)
 
 When you are done, save your image either .JPG file or take advantage and get creative with transparent alpha layers with a .PNG file, any filename is fine "Example: "MyFace.jpg"), copy and paste that image location (Example: "C:\MyStuff\MyFace.jpg" or "Http://www.website.com/MyFace.jpg") into the "Custom Face Texture" field in VR Drums Ultimate Streamer and press enter on your keyboard.
 
