@@ -319,7 +319,7 @@ Fill in your nickname or name as the "Charters Name", it will be displayed in ga
 
 Also "Arist Name" being the band or performer. Select exit.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d67b3db3-b2a9-402a-907b-5b9143feb6c4)
 
 Now hit tab again, select the track "gutair" and then difficultly to "easy guitar". This will be our basic drum chart.
 
