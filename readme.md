@@ -303,7 +303,7 @@ Locate and select your .MP3 you want to make a chart for.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/54b8c663-22db-4b3d-9d8a-f52cd96515af)
 
-Once your file is selected another screen will now appear. None of these settings matter, you can skip them, but if you like add in the "Charters Name", that is you. Also "Arist Name" being the band or performer. Select exit.
+Once your file is selected another screen will now appear. Fill in Song Name. Select the difficulty you believe you made your chart for 1-11. Fill in your nickname or name as the "Charters Name", it will be displayed in game when you select the song. Also "Arist Name" being the band or performer. Select exit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
 
