@@ -303,7 +303,21 @@ Locate and select your .MP3 you want to make a chart for.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/54b8c663-22db-4b3d-9d8a-f52cd96515af)
 
-Once your file is selected another screen will now appear. Fill in Song Name. Select the difficulty you believe you made your chart for 1-11. Fill in your nickname or name as the "Charters Name", it will be displayed in game when you select the song. Also "Arist Name" being the band or performer. Select exit.
+Once your file is selected another screen will now appear. Fill in Song Name. This will be displayed in-game when you select the song.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/088b7532-235a-44e5-bddd-84d1b3bfc3d7)
+
+Select the difficulty you believe you made your chart for 1-11. 
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/05b9be2a-4487-4b74-80b9-c60be06d8ccd)
+
+Fill in your nickname or name as the "Charters Name", it will be displayed in game when you select the song.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0f19dc65-fb64-4f3b-ac9c-895521b48b48)
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a31d04f8-eb32-4f31-b88e-4510a5030ddc)
+
+Also "Arist Name" being the band or performer. Select exit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5619dc31-b663-48ed-8a63-d2b501915e70)
 
