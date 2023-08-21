@@ -321,7 +321,13 @@ Also "Arist Name" being the band or performer. Select exit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d67b3db3-b2a9-402a-907b-5b9143feb6c4)
 
-Now hit tab again, select the track "gutair" and then difficultly to "easy guitar". This will be our basic drum chart.
+Now hit tab key and select the track "Gutair". This will be our basic drum track to chart on.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7a4f7af5-4d62-4558-a0ea-4611985f3469)
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/15558450-2853-49d7-9293-b5cfd3151c3f)
+
+Then set difficultly to "Easy Guitar". You can chart different charts to different difficulties the player can choose on the fly.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cbb705a1-e8ad-4dcf-8427-989d194a8378)
 
