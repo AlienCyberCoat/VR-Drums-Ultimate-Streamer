@@ -228,9 +228,9 @@ Example.
 
 ░/Songs/Rocketman.chart           (Required: The .chart file)
 
-░/Songs/Rocketman.jpg             (Optional: The image for the album art)
+░/Songs/Rocketman_advanced.chart  (Required but optional: Only needed for advanced charts)
 
-░/Songs/Rocketman_advanced.chart  (Optional: Only needed for advanced charts)
+░/Songs/Rocketman.jpg             (Optional: The image for the album art)
 
 ░/Songs/Rocketman_highway.jpg     (Optional: Custom note highway art)
 
@@ -250,7 +250,7 @@ Make a good chart let us know! We will add it to our GitHub chart collection.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b553db9-778c-4e59-8342-a0ec65bbfc0d)
 
-Note: _advanced.chart file are not needed, it's for advanced drum charts with extra instruments like bass and ride cuymbal. 
+Note: _advanced.chart file is needed, just make it a blank chart if you don't want to use the advanced instruments.
 
 Now in game select the Note Shop.
 
