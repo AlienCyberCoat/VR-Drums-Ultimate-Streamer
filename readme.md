@@ -250,7 +250,7 @@ Make a good chart let us know! We will add it to our GitHub chart collection.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b553db9-778c-4e59-8342-a0ec65bbfc0d)
 
-Note: _advanced.chart file is needed, just make it a blank chart if you don't want to use the advanced instruments.
+Note: _advanced.chart file is needed, just make it a blank chart if you don't want to use the advanced instruments. (Example: mySong_advanced.chart)
 
 Now in game select the Note Shop.
 
