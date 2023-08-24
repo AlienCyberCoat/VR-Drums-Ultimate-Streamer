@@ -405,9 +405,9 @@ Open your chart in FeedBack and select the track "drums" and then difficultly to
 
 The first 5 strings will read from "guitar track" easy-expert (metalsong.chart). While the extra instruments on 6-9 string are being read from the same chart file but the "drum track" easy-expert.
 
-track: guitar **Basic Chart Instruments (example: offspring.chart) difficulty: easy guitar (default read)
+track: Guitar **Basic Chart Instruments (example: offspring.chart) difficulty: easy guitar (default read)
 
-track: drums **Advanced Chart Instruments (same offspring.chart) difficulty: easy drums (default read)
+track: Drums **Advanced Chart Instruments (same offspring.chart) difficulty: easy drums (default read)
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c74826c4-fa00-48ce-8df0-290e2f7966c5)
 
