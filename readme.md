@@ -397,13 +397,17 @@ You're done. Load the game. Load the .mp3 file in the Note Shop. It will load th
 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Use the same chart file for the song, you can access more drums for example, the bass, ride and large crash by hitting tab in FeedBack and  switching to the drums track.
+Use the same chart file for accessing the extra instruments, load it in FeedBack.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9a7eab64-4c29-4d44-b43d-65535c6b4e0f)
+
+Now hit the tab key in FeedBack and switch to the drums track.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9c589989-ac05-4015-aaf2-c7abdadc03f2)
 
-Open your chart in FeedBack and select the track "drums" and then difficultly to "easy drums". This will be our advance drum chart.
+Now the difficultly to "easy drums". This will be our advance instruments drum chart.
 
-The first 5 strings will read from "guitar track" easy-expert (metalsong.chart). While the extra instruments on 6-9 string are being read from the same chart file but the "drum track" easy-expert.
+The first 5 strings will read from "guitar track" easy-expert. While the extra instruments on 6-9 string are being read from the same chart file but the "drum track" easy-expert.
 
 track: Guitar **Basic Chart Instruments (example: offspring.chart) difficulty: easy guitar (default read)
 
