@@ -401,9 +401,7 @@ Use the same chart file for the song, you can access more drums for example, the
 
 Make a new chart in FeedBack and hit tab again, select the track "drums" and then difficultly to "easy drums". This will be our advance drum chart.
 
-Just name your the second chart file the same as the first but add _advanced (Example metalsong.chart / metalsong_advanced.chart)
-
-The first 5 strings will read from chart 1 (metalsong.chart). While the extra instruments on 6-9 string are being read from the advanced chart (metalsong_advanced.chart)
+The first 5 strings will read from "guitar track" easy-expert (metalsong.chart). While the extra instruments on 6-9 string are being read from the same chart file but the "drum track" easy-expert.
 
 **Basic Chart (example: offspringYa.chart)** track: guitar | difficulty: easy guitar 
 
