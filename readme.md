@@ -42,7 +42,7 @@ You can also use your VR controllers to position yourself on the fly in-game. Th
 
 ░Position Back (Left 2D axis click)
 
-░Position Higher (Left primary button)
+░Position Higher (Left primary button 1)
 
 ░Position Lower (Left second primary button)
 
@@ -114,7 +114,11 @@ You can even set your mouse on the floor and use it as a foot pedal but this is 
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
 
-Click "Config" botton using your VR hand laser and pull the controllers trigger.
+░Enter EDIT MODE (VR Controller: Left primary button 1)
+
+░Exit EDIT MODE -- Tap again (VR Controller: Left primary button 1)
+
+You can also enter EDIT MODE via the menu. Click "Config" botton using your VR hand laser and pull the controllers trigger.
 
 EDIT MODE allows you to move drums, objects, and change drum sounds. To enter EDIT MODE click the checkbox in the Drum Builder menu. Once enabled exit the menu and enter VR while EDIT MODE is on. Read how to move your drums below. Return to the menu and disable the EDIT MODE checkbox when you are done. There is also a controller button to enter EDIT MODE on the fly (Left VR controller Button 1).
 
@@ -127,10 +131,6 @@ When you enter EDIT MODE you will see a warning all around you that you are in E
 Player in EDIT MODE example.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fb1d269b-eeee-402b-b791-0a80be7a3dbe)
-
-░Enter EDIT MODE (VR Controller: Left primary button)
-
-░Exit EDIT MODE -- Tap again (VR Controller: Left primary button)
 
 
 ░░░░░**Moving a Drum**░░░░░░░░░░░░░░░░
