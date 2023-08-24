@@ -425,7 +425,11 @@ Advanced "drum track" chart color notes in FeedBack transalated to the the real 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d9d5cd68-6689-4947-b88a-b23f5a9bd58e)
 
-You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart, it will split the screen.
+You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart, it will split the screen. Hit tab key in FeedBack for the quick menu.
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d36f98d2-3379-4b32-bf4e-0f2c6c91cb1a)
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/19e68719-82c9-448a-b03b-d2a680c11865)
 
 A look at all the files for your song package and how they can be used.
 
