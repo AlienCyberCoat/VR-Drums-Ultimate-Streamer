@@ -59,7 +59,7 @@ Some players don't like the hand lasers on at all times. If they get in your way
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0cf8d737-d59c-499e-9c9a-2030caca2dbd)
 
-You can turn your hand lasers back on at anytime by enter "EDIT MODE" left controller button 1.
+You can turn your hand lasers back on at anytime by entering "EDIT MODE", left controller button 1.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/65d7d885-051d-4250-b946-7a3dfee3e857)
 
