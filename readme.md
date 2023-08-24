@@ -250,8 +250,6 @@ Make a good chart let us know! We will add it to our GitHub chart collection.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/28f47fbf-a439-4b00-8556-54d44ccb8a17)
 
-Note: _advanced.chart file is needed, just make it a blank chart if you don't want to use the advanced instruments. (Example: mySong_advanced.chart)
-
 Now in game select the Note Shop.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d7882e18-695a-418d-8fb1-4fbc0a85fa5b)
@@ -279,13 +277,11 @@ Your controls for the note highway.
 
 ░░░░░**Create Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
 
-Download FeedBack. You can find the file on our GitHub VRDUS Repository. Link below.
-
-https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer
+Download FeedBack or look in VR Drums Ultimate Streamers installation directory and find a zip file of it under "VRDUS\VRDUS_Data\Music".
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6f02e3ae-baab-4c30-a077-9f39a0c08b51)
 
-These are the basic note tracks for the chart for VR Drums Ultimate Streamer. If you want to create an advanced chart you can create a chart 2 file with bass, ride and crash 2, more on that below soon.
+These are the basic note tracks for the chart for VR Drums Ultimate Streamer. If you want to create an advanced chart with a ride note, bass note and crash 2 note, more on that below soon.
 
 FeedBack and the colors to drums.
 
