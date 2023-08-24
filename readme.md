@@ -399,29 +399,29 @@ You're done. Load the game. Load the .mp3 file in the Note Shop. It will load th
 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Making a second chart file for the same song you can access more drums for example, the bass, ride and large crash.
+Use the same chart file for the song, you can access more drums for example, the bass, ride and large crash by hitting tab in FeedBack and  switching to the drums track.
 
-Make a new chart in FeedBack and hit tab again, select the track "drums" and then difficultly to "expert drums". This will be our advance drum chart.
+Make a new chart in FeedBack and hit tab again, select the track "drums" and then difficultly to "easy drums". This will be our advance drum chart.
 
 Just name your the second chart file the same as the first but add _advanced (Example metalsong.chart / metalsong_advanced.chart)
 
 The first 5 strings will read from chart 1 (metalsong.chart). While the extra instruments on 6-9 string are being read from the advanced chart (metalsong_advanced.chart)
 
-**Basic Chart (example: offspringYa.chart)** track: guitar | difficulty: easy guitar
+**Basic Chart (example: offspringYa.chart)** track: guitar | difficulty: easy guitar (you can chart for different difficulties if you want)
 
-**Advanced Chart (example: offspringYa_advanced.chart)** track: drums | difficulty: expert drums
+**Advanced Instruments Chart (same offspringYa.chart)** but track: drums | difficulty: easy drums
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0bd940fd-d39a-4153-a3d8-96988ea87bbf)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c74826c4-fa00-48ce-8df0-290e2f7966c5)
 
 Notes to chart on your advanced.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/921037f1-e948-4032-b2d9-1eff4a413453)
 
-Chart 2 color notes in FeedBack transalated to the the real kit.
+Advanced "drum track" chart color notes in FeedBack transalated to the the real kit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d9d5cd68-6689-4947-b88a-b23f5a9bd58e)
 
-You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart.
+You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart, it will split the screen.
 
 A look at all the files for your song package and how they can be used.
 
