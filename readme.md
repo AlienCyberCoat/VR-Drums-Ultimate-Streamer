@@ -28,7 +28,7 @@ Launch Options
 
 ░░░░░**Player Positioning**░░░░░░░░░░░
 
-Click "Config" botton using your VR hand laser and pull the controllers trigger.
+Click "Config" button using your VR hand laser and pull the controllers trigger.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e195a15e-865f-4d4c-9f4f-27aec0e79da5)
 
