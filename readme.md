@@ -397,7 +397,7 @@ You're done. Load the game. Load the .mp3 file in the Note Shop. It will load th
 
 ░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Use the same chart file for accessing the extra instruments, load it in FeedBack.
+Load up FeedBack and hit Esc key to bring up the menu. Use the same chart file for accessing the extra instruments, load it in FeedBack.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9a7eab64-4c29-4d44-b43d-65535c6b4e0f)
 
