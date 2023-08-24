@@ -9,7 +9,7 @@ Select VR Drums Ultimate Steamer from your library in Steam. While the loading s
 
 ![loading](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/035a46fe-cd13-45e9-91cf-3045d0b27051)
 
-VRDUS can require a lot from your computers resources. 60+ FPS is recommended for good tracking precision and accuracy. Make sure your PC settings don't effect performance to much for comfortable gameplay. Limiting lights in the scene can free up memory and increase FPS.
+VRDUS can require a lot from your computers resources. 60+ FPS is recommended for good tracking precision and accuracy. Make sure your PC settings don't effect performance to much for comfortable gameplay. Limiting lights, and extra cameras in the scene can free up memory and increase FPS. You should have no lag.
 
 Launch Options
 
