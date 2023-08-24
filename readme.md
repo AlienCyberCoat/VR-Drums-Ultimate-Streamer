@@ -427,7 +427,7 @@ You might want to bring up a refernce chart to plot the bass between the notes o
 
 A look at all the files for your song package and how they can be used.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/db0c1006-8c38-48b8-83c1-e55bc0083cc5)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/151b70a3-5dc7-4744-8426-cf6431169d3a)
 
 The .mp3 in the sub directory. 
 
