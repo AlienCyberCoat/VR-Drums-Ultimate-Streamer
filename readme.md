@@ -246,7 +246,7 @@ You can have the folder anywhere on your computer or named anything as long as y
 
 Make a good chart let us know! We will add it to our GitHub chart collection.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/28f47fbf-a439-4b00-8556-54d44ccb8a17)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e45316fb-9814-4dbe-9f69-3746e40ed136)
 
 Now in game select the Note Shop.
 
@@ -425,7 +425,7 @@ You might want to bring up a refernce chart to plot the bass between the notes o
 
 A look at all the files for your song package and how they can be used.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/151b70a3-5dc7-4744-8426-cf6431169d3a)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cffc73f6-3fae-4f31-8b0f-a2bfe583bc95)
 
 The .mp3 in the sub directory. 
 
