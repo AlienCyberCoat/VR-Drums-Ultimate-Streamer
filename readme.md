@@ -248,7 +248,7 @@ You can have the folder anywhere on your computer or named anything as long as y
 
 Make a good chart let us know! We will add it to our GitHub chart collection.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c4c15fb1-6691-43b6-bc9d-3e5e6b1d78b8)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/28f47fbf-a439-4b00-8556-54d44ccb8a17)
 
 Note: _advanced.chart file is needed, just make it a blank chart if you don't want to use the advanced instruments. (Example: mySong_advanced.chart)
 
