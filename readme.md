@@ -407,11 +407,13 @@ Just name your the second chart file the same as the first but add _advanced (Ex
 
 The first 5 strings will read from chart 1 (metalsong.chart). While the extra instruments on 6-9 string are being read from the advanced chart (metalsong_advanced.chart)
 
-**Basic Chart (example: offspringYa.chart)** track: guitar | difficulty: easy guitar (you can chart for different difficulties if you want)
+**Basic Chart (example: offspringYa.chart)** track: guitar | difficulty: easy guitar 
 
 **Advanced Instruments Chart (same offspringYa.chart)** but track: drums | difficulty: easy drums
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c74826c4-fa00-48ce-8df0-290e2f7966c5)
+
+Yyou can chart for different difficulties if you want buy switch the track. Guitar easy-expert and Drums easy-expert.
 
 Notes to chart on your advanced.
 
