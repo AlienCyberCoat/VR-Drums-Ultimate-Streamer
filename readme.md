@@ -55,7 +55,7 @@ Click the "Config" botton using your VR hand laser and pull the controllers trig
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/231c3ee6-257f-4965-adc2-de9ce263c73b)
 
-Some players don't like the hand lasers on at all times. If they get in your way, look left and you can hide them anytime you want.
+Some players don't like the hand lasers on at all times. If they get in your way, look right to find the option, you can hide them anytime you want.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0cf8d737-d59c-499e-9c9a-2030caca2dbd)
 
