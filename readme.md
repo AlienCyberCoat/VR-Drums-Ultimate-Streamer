@@ -411,7 +411,7 @@ The first 5 strings will read from chart 1 (metalsong.chart). While the extra in
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c74826c4-fa00-48ce-8df0-290e2f7966c5)
 
-You can chart for different difficulties if you want by switching the chart track in FeedBack, hit tab key. Guitar easy-expert and Drums easy-expert.
+You can chart for different difficulties if you want by switching the chart difficulty in FeedBack, hit tab key. Users can switch change these while playing. Guitar easy-expert and Drums easy-expert.
 
 Notes to chart on your advanced.
 
