@@ -323,7 +323,7 @@ Now hit tab key and select the track "Gutair". This will be our basic drum track
 
 Then set difficulty to "Easy Guitar". You can chart different charts to different difficulties the player can choose on the fly.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cbb705a1-e8ad-4dcf-8427-989d194a8378)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/59ed2da8-607c-4b0a-ba32-80c72d928508)
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a9787ccf-4aa7-4686-b73e-6d6c042c5852)
 
