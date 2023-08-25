@@ -372,7 +372,7 @@ Now hit the tab key in FeedBack and switch to the drums track.
 
 Now the difficultly to "easy drums". This will be our advance instruments drum chart.
 
-You can chart for different difficulties if you want by switching the chart difficulty in FeedBack, hit tab key. Users can switch change these while playing. Guitar easy-expert and Drums easy-expert.
+You can chart for different difficulties for the player to choose in game if you want by switching the chart difficulty in FeedBack or in Moonscraper, hit the tab key in FeedBack. Select difficulty and choose easy-expert.
 
 You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart, it will split the screen. Hit tab key in FeedBack for the quick menu.
 
