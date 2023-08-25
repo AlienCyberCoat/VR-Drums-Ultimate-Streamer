@@ -1,4 +1,4 @@
-![mainLogoTrans_final](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a977f7b0-4b3f-4410-a7fd-7f8a0c550ec1)
+Now the difficultly to "easy drums". This will be our ![mainLogoTrans_final](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a977f7b0-4b3f-4410-a7fd-7f8a0c550ec1)
 
 
 
@@ -372,17 +372,7 @@ Now hit the tab key in FeedBack and switch to the drums track.
 
 Now the difficultly to "easy drums". This will be our advance instruments drum chart.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c74826c4-fa00-48ce-8df0-290e2f7966c5)
-
 You can chart for different difficulties if you want by switching the chart difficulty in FeedBack, hit tab key. Users can switch change these while playing. Guitar easy-expert and Drums easy-expert.
-
-Notes to chart on your advanced.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/921037f1-e948-4032-b2d9-1eff4a413453)
-
-Advanced "drum track" chart color notes in FeedBack transalated to the the real kit.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d9d5cd68-6689-4947-b88a-b23f5a9bd58e)
 
 You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart, it will split the screen. Hit tab key in FeedBack for the quick menu.
 
