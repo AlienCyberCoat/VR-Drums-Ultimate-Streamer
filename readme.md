@@ -393,14 +393,11 @@ Only the .mp3 file and the basic .chart is required. The advanced chart and imag
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
 
-MP3 same name of the filename as a sub directory. The album art in the parent directory above it, just like this.
+Place your song file in the sub directory "VRDUS_Data\Music\Songs\GunsAndRoses". Put the album image in the same sub directory, example "VRDUS_Data\Music\Songs\GunsAndRoses\album.png"
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fd5a2227-76f5-47c7-8af5-855d41bafb88)
+Album art must be .PNG format.
 
-The .mp3 in the sub directory. 
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/67bb65bd-3074-42ab-8252-ecea18ec8c78)
-
+You are done, see your album now in game when you select your song.
 
 
 ░░░░░**MIDI**░░░░░░░░░░░░░░░░░░░░░░░░░
