@@ -257,24 +257,16 @@ Your controls for the note highway.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/4b3a8954-11a2-41cb-a294-52d1a1f94110)
 
+NOTE: If you see no notes but hear the song on the highway, make sure you selected the correct difficulty for the tracks chart to be played. You can change the difficulty on the fly by looking to your left and adjusting the note highway controls.
+
 
 ░░░░░**Create Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
 
-Download FeedBack or look in VR Drums Ultimate Streamers installation directory and find a zip file of it under "VRDUS\VRDUS_Data\Music".
+Download FeedBack or Moonscraper or just look in the VR Drums Ultimate Streamers installation directory and find both in "VRDUS\VRDUS_Data\Music".
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6f02e3ae-baab-4c30-a077-9f39a0c08b51)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d1950db2-6b53-4926-b341-087154491383)
 
-These are the basic note tracks for the chart for VR Drums Ultimate Streamer. If you want to create an advanced chart with a ride note, bass note and crash 2 note, more on that below soon.
-
-FeedBack and the colors to drums.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9b12014f-caf6-45fc-9e1f-3d05901e8ba9)
-
-Where the notes from FeedBack will be played on the real kit.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/358f82a0-857f-4940-9db4-a0938a7f6f3f)
-
-Place your MP3 file in a sub directory in FeedBacks /Songs folder (example /Songs/MySong). While in FeedBack hit the TAB key to bring up the main menu. Select NEW CHART.
+Place your MP3/OGG file in a sub directory in FeedBacks /Songs folder (example /Songs/MySong). While in FeedBack hit the TAB key to bring up the main menu. Select NEW CHART.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/390fe162-68f9-4ee4-aee9-7f256bd70fe1)
 
