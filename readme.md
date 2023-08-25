@@ -349,46 +349,9 @@ Inside the folder is the .mp3 and the .chart file. These can be copied to VRDUS 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/869633b9-ced4-421a-bb62-21fbc12be50a)
 
-Copy the files to VR Drums Ultimate Streamers game folder VRDUS_Data\Music\Songs
+Copy the sub directory FeedBack make over to the VR Drums Ultimate Streamers isntallation folder in "VRDUS_Data\Music\Songs".
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8fe143ca-df27-429b-a450-8db25b932914)
-
-The song in the sub directory.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c24fda3d-2183-4751-9c01-4561ece2b5b3)
-
-You're done. Load the game. Load the .mp3 file in the Note Shop. It will load the .chart file and the package contents, if you added any. (custom highway art, album art)
-
-
-░░░░░**Advanced Charts**░░░░░░░░░░░░░░░░░░░░░░░░░
-
-Load up FeedBack and hit Esc key to bring up the menu. Use the same chart file for accessing the extra instruments, load it in FeedBack.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9a7eab64-4c29-4d44-b43d-65535c6b4e0f)
-
-Now hit the tab key in FeedBack and switch to the drums track.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9c589989-ac05-4015-aaf2-c7abdadc03f2)
-
-Now the difficultly to "easy drums". This will be our advance instruments drum chart.
-
-You can chart for different difficulties for the player to choose in game if you want by switching the chart difficulty in FeedBack or in Moonscraper, hit the tab key in FeedBack. Select difficulty and choose easy-expert.
-
-You might want to bring up a refernce chart to plot the bass between the notes of your other basic chart. Hit TAB key while in FeedBack to load a reference chart, it will split the screen. Hit tab key in FeedBack for the quick menu.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d36f98d2-3379-4b32-bf4e-0f2c6c91cb1a)
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/19e68719-82c9-448a-b03b-d2a680c11865)
-
-A look at all the files for your song package and how they can be used.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/cffc73f6-3fae-4f31-8b0f-a2bfe583bc95)
-
-The .mp3 in the sub directory. 
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/67bb65bd-3074-42ab-8252-ecea18ec8c78)
-
-Only the .mp3 file and the basic .chart is required. The advanced chart and images are optional. 
+You're done. Load the game. Load the .mp3 file in the Note Shop. It will load the .chart file and the songs package contents (album.png, notes.chart, custom_noteHighway.jpg).
 
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
