@@ -356,7 +356,9 @@ You're done. Load the game. Load the .mp3 file in the Note Shop. It will load th
 
 ░░░░░**Adding Album Art**░░░░░░░░░░░░░░░░░░░░░░░░░
 
-Place your song file in the sub directory "VRDUS_Data\Music\Songs\GunsAndRoses". Put the album image in the same sub directory, example "VRDUS_Data\Music\Songs\GunsAndRoses\album.png"
+Place your song file in the sub directory in "VRDUS_Data\Music\Songs\", example "VRDUS_Data\Music\Songs\GunsAndRoses".
+
+Put the album image in the same "/Songs/GunsAndRoses" sub directory, example "VRDUS_Data\Music\Songs\GunsAndRoses\album.png"
 
 Album art must be .PNG format.
 
