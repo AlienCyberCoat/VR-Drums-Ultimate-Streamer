@@ -341,10 +341,6 @@ Keys placing Notes*****
 
 Tips.
 
-Bring up the VR Drums Ultimate Streamer note chart image beside FeedBack editor while you are charting a song to help remember what instrument you are using. Example below.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7b398513-b781-4c04-afae-c528f8808ede)
-
 Replay your song with SPACE key as much as you like and match your notes however you like.
 
 When you are done, go to the end of your song on the chart and hit the "E" key and type "end" and press enter. This will place an end point of the chart.
