@@ -296,12 +296,6 @@ Now hit tab key and select the track "Drums". This will be our basic drum track 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7a4f7af5-4d62-4558-a0ea-4611985f3469)
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/15558450-2853-49d7-9293-b5cfd3151c3f)
-
-
-
-
-
 You must know the BPM (beats per minute) of your song /.MP3 file. Set the BPM in FeedBack to your songs BPM with these keys.
 
 **equal key** - increase BPM
