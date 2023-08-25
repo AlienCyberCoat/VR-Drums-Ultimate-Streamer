@@ -266,7 +266,7 @@ Download FeedBack or Moonscraper or just look in the VR Drums Ultimate Streamers
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d1950db2-6b53-4926-b341-087154491383)
 
-Place your MP3/OGG file in a sub directory in FeedBacks /Songs folder (example /Songs/MySong). While in FeedBack hit the TAB key to bring up the main menu. Select NEW CHART.
+Place your MP3/OGG file in a sub directory in FeedBacks /Songs folder (example /Songs/MySong) or just load in in Moonscraper by selecting "load". While in FeedBack hit the TAB key to bring up the main menu. Select NEW CHART.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/390fe162-68f9-4ee4-aee9-7f256bd70fe1)
 
@@ -292,17 +292,15 @@ Also "Arist Name" being the band or performer. Select exit.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d67b3db3-b2a9-402a-907b-5b9143feb6c4)
 
-Now hit tab key and select the track "Gutair". This will be our basic drum track to chart on.
+Now hit tab key and select the track "Drums". This will be our basic drum track to chart on.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7a4f7af5-4d62-4558-a0ea-4611985f3469)
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/15558450-2853-49d7-9293-b5cfd3151c3f)
 
-Then set difficulty to "Easy Guitar". You can chart different charts to different difficulties the player can choose on the fly.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/59ed2da8-607c-4b0a-ba32-80c72d928508)
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a9787ccf-4aa7-4686-b73e-6d6c042c5852)
+
 
 You must know the BPM (beats per minute) of your song /.MP3 file. Set the BPM in FeedBack to your songs BPM with these keys.
 
