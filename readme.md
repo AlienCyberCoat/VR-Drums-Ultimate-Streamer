@@ -345,11 +345,13 @@ Hit Escape key to bring up the main menu. Select "Save Chart". Now locate the fo
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/962663fc-03be-4b93-8e26-491c3f6244fb)
 
-Inside the folder is the .mp3 and the .chart file. These can be copied to VRDUS and now played. Read below.
+Inside the folder is the .ogg or .mp3 file and the new .chart file you made. Copy the whole folder over to VR Drums Ultimates Streamer in "VRDUS_Data\Music\Songs\".
+
+Example, "VRDUS_Data\Music\Songs\hbo".
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/869633b9-ced4-421a-bb62-21fbc12be50a)
 
-Copy the sub directory FeedBack make over to the VR Drums Ultimate Streamers isntallation folder in "VRDUS_Data\Music\Songs".
+Copy the sub directory FeedBack made over to the VR Drums Ultimate Streamers isntallation folder in "VRDUS_Data\Music\Songs".
 
 You're done. Load the game. Load the .mp3 file in the Note Shop. It will load the .chart file and the songs package contents (album.png, notes.chart, custom_noteHighway.jpg).
 
