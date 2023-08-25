@@ -214,45 +214,29 @@ Select "Locations" in the config menu and select "Green Screen Room". Remove you
 OBS Software: https://obsproject.com/download
 
 
-░░░░░**Play Custom Songs on Note Highway**░░░░░░░░░░░░░░░░░░░░
+░░░░░**Play Clone Hero and Custom Songs on Note Highway**░░░░░░░░░░░░░░░░░░░░
 
-Files can be anywhere on your computer but must follow directory structure to work when you select your .MP3 in the Note Shop. Example below. 
+Put your Clone Hero song folders inside "VRDUS\VRDUS_Data\Music\Songs".
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7ef8a560-d544-4be4-98d4-4af907e44aea)
-
-Make a new sub directory in /Songs name it the .mp3 filename.
-
-Example. The song "Rocketman.mp3".
-
-/Songs/
-
-/Songs/Rocketman/
-
-/Songs/Rocketman/**Rocketman.mp3 (Put the .mp3 in here)
-
-Drop everything else for your package in the root of /Songs directory.
+Following standard format of charted songs and content we will use the song example "Rocketman" see below.
 
 Example.
 
-░/Songs/Rocketman.chart           (Required: The .chart file)
+░░░Songs/Rocketman/	(Example song "Rocketman". Put everything for it in here)
 
-░/Songs/Rocketman.jpg             (Optional: The image for the album art)
+Example of contents in the /Rocketman sub folder.
 
-░/Songs/Rocketman_highway.jpg     (Optional: Custom note highway art)
+░notes.chart           		(Required: The .chart file)
+░album.png            		(Optional: The image for the album art .png format)
+░custom_noteHighway.jpg     	(Optional: The note highway art for the song .jpg)
 
-Everything follows the filename of your .mp3 filename.
 
-Use the included note highway image and the "no album image" to make your custom one.
+Make your own charts or add others to this \Songs folder. You can find 2 charting tools in this games installation folder under "VRDUS\VRDUS_Data\Music". Chart with what one you like.
 
-Stuff included is in the games intall folder.
+Note: You can have song folders anywhere on your computer if you wanted.
 
-░VRDUS_Data\Music\Songs
-
-Make your own charts or add others to this \Songs folder. 
-
-You can have the folder anywhere on your computer or named anything as long as you followed the instructions above. 
-
-Make a good chart let us know! We will add it to our GitHub chart collection.
+Online manual for more information and downloads.
+https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e45316fb-9814-4dbe-9f69-3746e40ed136)
 
