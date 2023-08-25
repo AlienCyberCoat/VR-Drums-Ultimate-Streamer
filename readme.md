@@ -224,7 +224,7 @@ Example.
 
 ░░░Songs/Rocketman/	(Example song "Rocketman". Put everything for it in here)
 
-Example of contents in the /Rocketman sub folder.
+Example of contents in the /Rocketman subfolder.
 
 ░notes.chart           		(Required: The .chart file)
 ░album.png            		(Optional: The image for the album art .png format)
