@@ -228,23 +228,16 @@ Example of contents in the /Rocketman sub folder.
 
 ░notes.chart           		(Required: The .chart file)
 ░album.png            		(Optional: The image for the album art .png format)
-░custom_noteHighway.jpg     	(Optional: The note highway art for the song .jpg)
+░custom_noteHighway.jpg   (Optional: The note highway art for the song .jpg)
 
 
 Make your own charts or add others to this \Songs folder. You can find 2 charting tools in this games installation folder under "VRDUS\VRDUS_Data\Music". Chart with what one you like.
 
-Note: You can have song folders anywhere on your computer if you wanted.
-
-Online manual for more information and downloads.
-https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e45316fb-9814-4dbe-9f69-3746e40ed136)
-
-Now in game select the Note Shop.
+Now in the game select the Note Shop.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d7882e18-695a-418d-8fb1-4fbc0a85fa5b)
 
-Now when you are in the Note Shop, select your MP3 file and your song will load in-game and ready do play along with the chart.
+Now when you are in the Note Shop, find your directory with your song contents in it and select the song file and your song will load and ready do play along with the chart.
 
 Find your directory.
 
