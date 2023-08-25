@@ -382,12 +382,6 @@ Now hit the tab key in FeedBack and switch to the drums track.
 
 Now the difficultly to "easy drums". This will be our advance instruments drum chart.
 
-The first 5 strings will read from "guitar track" easy-expert. While the extra instruments on 6-9 string are being read from the same chart file but the "drum track" easy-expert.
-
-track: Guitar **Basic Chart Instruments (example: offspring.chart) difficulty: easy guitar (default read)
-
-track: Drums **Advanced Chart Instruments (same offspring.chart) difficulty: easy drums (default read)
-
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c74826c4-fa00-48ce-8df0-290e2f7966c5)
 
 You can chart for different difficulties if you want by switching the chart difficulty in FeedBack, hit tab key. Users can switch change these while playing. Guitar easy-expert and Drums easy-expert.
