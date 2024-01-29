@@ -1,4 +1,4 @@
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/741b6c6d-288b-459f-b742-f938498b8036)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/6f4d9b9f-b5c0-4444-abe2-815a50061bd1)
 
 
 ░░░░░**Operations**░░░░░░░░░░░░░░░░░░░
