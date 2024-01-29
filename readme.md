@@ -1,6 +1,4 @@
-Now the difficultly to "easy drums". This will be our ![mainLogoTrans_final](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/a977f7b0-4b3f-4410-a7fd-7f8a0c550ec1)
-
-
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/741b6c6d-288b-459f-b742-f938498b8036)
 
 
 ░░░░░**Operations**░░░░░░░░░░░░░░░░░░░
