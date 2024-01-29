@@ -150,7 +150,7 @@ To change a drum press the (Left primary button) to enter EDIT MODE.
 
 Hold your left hand over the blue cube of the drum you wish to change. 
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/138d9801-7cfb-49dd-96fd-6b23d3bb7818)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/f1d354b4-3cec-4460-94be-b69c27c2fcc6)
 
 The drums menu will appear. Your VR hand will also now have a blue selection laser on your right hand you can hover over stuff to choose. Choose your drum from the selection with your right hand blue laser pointer. Remove your left hand from blue cube to exit the drums menu. Press the (EDIT BUTTON / Left primary button) again to leave EDIT MODE.
 
