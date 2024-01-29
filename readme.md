@@ -30,7 +30,7 @@ Click "Config" button using your VR hand laser and pull the controllers trigger.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e195a15e-865f-4d4c-9f4f-27aec0e79da5)
 
-Find player posistion in the menu under the main tab. Use the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
+Find player position in the menu under the main tab. Use the arrows to move, raise, lower and rotate your player. This can help if you have physical limitation in the real world tracking space. Click the done button when you are finished.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e90c3670-f15c-4d31-b85d-de0f2578a0fa)
 
@@ -49,7 +49,7 @@ You can also use your VR controllers to position yourself on the fly in-game. Th
 
 ░░░░░**Hand and Stick Positioning**░░░░░░░░░░░
 
-Click the "Config" botton using your VR hand laser and pull the controllers trigger. You will see posistion controls for both right and left VR hands. Use the arrows to move. Moving these can posistion your hands or drum sticks in  the posistion you like.
+Click the "Config" botton using your VR hand laser and pull the controllers trigger. You will see position controls for both right and left VR hands. Use the arrows to move. Moving these can position your hands or drum sticks in  the position you like.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/231c3ee6-257f-4965-adc2-de9ce263c73b)
 
@@ -474,7 +474,7 @@ Point your laser at it, squeeze the VR controller trigger to click the button. A
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9c29a7ba-babd-4794-923e-f95f457ab152)
 
-Use the player posistion arrows by hovering your laser pointer over them and squeeze the trigger to press them. 
+Use the player position arrows by hovering your laser pointer over them and squeeze the trigger to press them. 
 
 
 📜░░**Question:** My hands or drum sticks are pointing the wrong way?
@@ -487,7 +487,7 @@ Point your laser at it, squeeze the VR controller trigger to click the button. A
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b984be56-78fa-41c9-aec2-55411807206d)
 
-Look for the right and left hand posistion arrows. Hovering your VR hand laser pointer over them and squeeze the trigger to press them.
+Look for the right and left hand position arrows. Hovering your VR hand laser pointer over them and squeeze the trigger to press them.
 
 
 ░░░░░**MISC**░░░░░░░░░░░░░░░░░░░░░░░░░
