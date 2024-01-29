@@ -183,11 +183,7 @@ When you are done, save your image either .JPG file or take advantage and get cr
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/7d0f422e-ef22-40d1-9586-c3c68b62348a)
 
-Your image will be loaded onto the in-game model.
-
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/0044d8e6-3757-47c7-9e3b-be7c83e86e59)
-
-You can get creative and make any design you like.
+Your image will be loaded onto the in-game model. You can get creative and make any design you like.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8d6c65ca-d825-45c6-81b1-c01af6c805d9)
 
