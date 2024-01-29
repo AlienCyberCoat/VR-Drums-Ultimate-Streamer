@@ -221,9 +221,12 @@ Example.
 Example of contents in the /Rocketman subfolder.
 
 ░notes.chart           		(Required: The .chart file)
-░album.png            		(Optional: The image for the album art .png format)
-░custom_noteHighway.jpg   (Optional: The note highway art for the song .jpg)
 
+░album.png            		(Optional: The image for the album art .png format)
+
+░song.mp3             		(Music: The music file)
+
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b670f418-7e5f-45ac-8c7f-91a6f611c6b5)
 
 Make your own charts or add others to this \Songs folder. You can find 2 charting tools in this games installation folder under "VRDUS\VRDUS_Data\Music". Chart with what one you like.
 
