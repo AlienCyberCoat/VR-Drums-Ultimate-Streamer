@@ -148,7 +148,7 @@ To change a drum press the (Left primary button) to enter EDIT MODE.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e3498d85-3cd1-45d9-83ff-4249d2f248af)
 
-Hold your left hand over the blue cube of the drum you wish to change. 
+Hold your left hand over the blue mod cube of the drum you wish to change. 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/f1d354b4-3cec-4460-94be-b69c27c2fcc6)
 
