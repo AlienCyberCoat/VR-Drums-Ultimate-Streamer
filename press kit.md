@@ -39,3 +39,4 @@ Benefits:
 - Transfer skill learned in-game to real life.
 - Up to 65 piece kit.
 - Connect game controllers to be used as foot pedals just like a real drum kit. (Bass pedal, Hi-hat pedal)
+- Simulate playing at a live concert.
