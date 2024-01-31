@@ -35,7 +35,7 @@ Benefits:
 - Play them as loud as a real drum kit, or completly silent to others around you inside your VR headsets headphones. Only you hear the noise, not your neighbors.
 - Practice playing drums on a realistic looking VR drum kit for half the price of real drum hardware.
 - Practice drum patterns.
-- Play to music.
+- Play to music. (Drum Covers)
 - Transfer skill learned in-game to real life.
 - Up to 65 piece kit.
 - Connect game controllers to be used as foot pedals just like a real drum kit. (Bass pedal, Hi-hat pedal)
