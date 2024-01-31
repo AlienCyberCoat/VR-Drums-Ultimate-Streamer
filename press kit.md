@@ -8,7 +8,7 @@ Developer: Alien Cyber Coat
 
 Release Date: May 2, 2023
 
-Platforms: PC VR
+Platforms: PC (VR Reality Headset Required) Oculus, HTC Vive, Valve Index, Meta Quest (With PC-Link)
 
 Price: $29.99
 
