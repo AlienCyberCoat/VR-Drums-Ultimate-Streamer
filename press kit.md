@@ -40,3 +40,14 @@ Benefits:
 - Up to 65 piece kit.
 - Connect game controllers to be used as foot pedals just like a real drum kit. (Bass pedal, Hi-hat pedal)
 - Simulate playing at a live concert.
+
+How to Play:
+- Pick up your sticks and start banging.
+
+Video Trailer
+
+
+Images:
+Download all the images in a compressed file: 
+
+
