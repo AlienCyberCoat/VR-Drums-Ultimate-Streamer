@@ -41,7 +41,7 @@ You can also use the VR drum kit and connected it to MIDI module devices through
 Benefits:
 - Realistic sounding and looking drum kit.
 - Pressure sensitive hits.
-- Play them as loud as a real drum kit, or completly silent to others around you inside your VR headsets headphones. Only you hear the noise, not your neighbors.
+- Play them as loud as a real drum kit, or completely silent to others around you inside your VR headsets headphones. Only you hear the noise, not your neighbors.
 - Practice playing drums on a realistic looking VR drum kit for half the price of real drum hardware.
 - Practice drum patterns.
 - Play to music. Cover your favorite songs.
