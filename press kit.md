@@ -62,6 +62,9 @@ https://www.youtube.com/watch?v=ZOTaxS7Q3iA
 Images:
 Download all the images in a compressed file: 
 
+![screenshot1](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/281ef6f0-5c56-4dc1-aa5b-d686c0355eb6)
+
+
 Company story:
 Alien Cyber Coat is an American indie game developer. We wanted to develop a VR drum kit when we lost our real life drum kit, and could not own another. We hope this helps people with the same issue. Alien Cyber Coat has been making video games since the early 2000's.
 
