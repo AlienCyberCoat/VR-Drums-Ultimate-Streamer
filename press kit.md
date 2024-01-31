@@ -20,12 +20,12 @@ Languages: English
 
 ESRB: Everyone
 
-Press Contact: aliencyercoat@gmail.com
+Press Contact: aliencybercoat@gmail.com
 
 Product Information (Store Page): https://store.steampowered.com/app/2354400/VR_Drums_Ultimate_Streamer/
 
 
-Discription:
+Description:
 
 VR Drums Ultimate Streamer is a physics based VR drum kit simulator that has been in development for over 2 years. Our app emulates owning a personal drum kit that you can play, practice, learn, modify and move around your individual drums and cymbals. You can change the drum head of each drum, just like a real drum, changing it's sound when it's hit. Also add more drums and cymbals to your drum kit. Live the ultimate drumming fantasy inside VR.
 
