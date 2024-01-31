@@ -49,7 +49,7 @@ Benefits:
 - Practice playing drums on a realistic looking VR drum kit for half the price of real drum hardware.
 - Practice drum patterns.
 - Play to music. Cover your favorite songs.
-- Transfer skill learned in-game to real life.
+- Transfer skills learned in-game to real life.
 - Up to 65 piece kit.
 - Connect game controllers to be used as foot pedals just like a real drum kit. (Bass pedal, Hi-hat pedal)
 - Simulate playing at a live concert.
