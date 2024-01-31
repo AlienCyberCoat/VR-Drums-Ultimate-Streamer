@@ -34,6 +34,11 @@ Physics5 - The custom drumming physics framework developed over 2 years.
 
 You can also use the VR drum kit and connected it to MIDI module devies through windows change the whole sound font of the drum kit using different MIDI sound fonts.
 
+Stanard
+![gameLogo](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/15c90df2-7893-40e3-8a01-fca4efbf360b)
+
+
+Transparent
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/176c7678-e676-42bb-ae50-60787b677e93)
 
 
