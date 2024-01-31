@@ -10,7 +10,7 @@ Release Date: May 2, 2023
 
 Platforms: PC
 
-Price: 2$9.99
+Price: $29.99
 
 Availability: Digital Download
 
