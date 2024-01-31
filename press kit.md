@@ -1,6 +1,6 @@
 VR Drums Ultimate Streamer Press Kit
 
-Download Press Kit Package (Included text and images): 
+Download Press Kit Package (Included text and images): https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Press%20Kit.7z
 
 Welcome to the VR Drums Ultimate Streamer Press page. If you need any additional information posted to this page or need additional information, please contact us.
 
@@ -60,7 +60,7 @@ Video Trailer:
 https://www.youtube.com/watch?v=ZOTaxS7Q3iA
 
 Images:
-Download all the images in a compressed file: 
+Download all the images in a compressed file: https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/blob/main/Press%20Kit.7z
 
 ![screenshot1](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/281ef6f0-5c56-4dc1-aa5b-d686c0355eb6)
 
