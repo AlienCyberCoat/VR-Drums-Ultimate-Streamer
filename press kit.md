@@ -20,7 +20,7 @@ ESRB: Everyone
 
 Press Contact: aliencyercoat@gmail.com
 
-Website: https://store.steampowered.com/app/2354400/VR_Drums_Ultimate_Streamer/
+Store: https://store.steampowered.com/app/2354400/VR_Drums_Ultimate_Streamer/
 
 
 Discription:
