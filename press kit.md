@@ -12,7 +12,7 @@ Platforms: PC (Virtual reality headset required) Oculus, HTC Vive, Valve Index, 
 
 Price: $29.99
 
-Availability: Digital Download
+Availability: Digital Download (Steam Store)
 
 Languages: English
 
