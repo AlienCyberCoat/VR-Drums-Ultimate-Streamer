@@ -84,4 +84,8 @@ Transparent Logo
 
 
 Press and reviews
+https://vrtodaymagazine.com/
+"VR Drums Ultimate Streamer takes drumming in virtual reality to the next level, as it features a 17+ piece drum set, a realistic physics engine, and advanced audio processing."
+
+You can also mod and practice your drum set and use the MIDI out option to connect to other devices. With OpenXR support, the game is compatible with most OpenXR devices.
 
