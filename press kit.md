@@ -63,6 +63,8 @@ Company story:
 Alien Cyber Coat is an American indie game developer. We wanted to develop a VR drum kit when we lost our real life drum kit, and could not own another. We hope this helps people with the same issue. Alien Cyber Coat has been making video games since the early 2000's.
 
 Logo/App icon
+![gameLogo transparent](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5ca63b82-450d-4b93-a63d-c4738bdbcae9)
+
 
 Press and reviews
 
