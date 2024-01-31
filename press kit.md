@@ -29,7 +29,7 @@ VR Drums Ultimate Streamer is a physics based VR drum kit simulator that has bee
 
 Physics5
 
-![physics5](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/65c5a93b-172f-46cd-8def-998d39f2d0c4)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/018b318c-5e16-4a74-b162-a2a7341ba6fc)
 
 
 You can also use the VR drum kit and connected it to MIDI module devies through windows change the whole sound font of the drum kit using different MIDI sound fonts.
