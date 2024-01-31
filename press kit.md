@@ -34,17 +34,10 @@ Physics5 - The custom drumming physics framework developed over 2 years.
 
 You can also use the VR drum kit and connected it to MIDI module devies through windows change the whole sound font of the drum kit using different MIDI sound fonts.
 
-Standard Logo
-
-![gameLogo](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/15c90df2-7893-40e3-8a01-fca4efbf360b)
+![ImageGlass_hNDgeEepzO](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/4cb573c9-1658-4806-9c15-f16295cfe19d)
 
 
-Transparent Logo
 
-![gameLogo transparent](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/2e4b8c89-cd89-499b-870f-8ef18951b581)
-
-
-![physics5 transparent](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/91c2d4a3-e21d-4ad5-8e7e-849fc3cf8771)
 
 
 
@@ -75,7 +68,17 @@ Company story:
 Alien Cyber Coat is an American indie game developer. We wanted to develop a VR drum kit when we lost our real life drum kit, and could not own another. We hope this helps people with the same issue. Alien Cyber Coat has been making video games since the early 2000's.
 
 Logo/App icon
-![gameLogo transparent](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5ca63b82-450d-4b93-a63d-c4738bdbcae9)
+Standard Logo
+
+![gameLogo](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/15c90df2-7893-40e3-8a01-fca4efbf360b)
+
+
+Transparent Logo
+
+![gameLogo transparent](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/2e4b8c89-cd89-499b-870f-8ef18951b581)
+
+
+![physics5 transparent](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/91c2d4a3-e21d-4ad5-8e7e-849fc3cf8771)
 
 
 Press and reviews
