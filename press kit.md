@@ -28,3 +28,10 @@ VR Drums Ultimate Streamer is a physics based VR drum kit simulator that has bee
 
 
 You can also use the VR drum kit and connected it to MIDI module devies through windows change the whole sound font of the drum kit using different MIDI sound fonts.
+
+Benefits:
+- Realistic soundsing drum kit
+- Pressure sensitive htis
+- Play them as loud as a real drum kit, or completly silent to other around you inside VR. Where only you hear the noise, not your neighbors.
+- Practice playing drums on a realistic looking VR drum kit for half the price of real drum hardware.
+- Practice drum patterns
