@@ -8,7 +8,7 @@ Developer: Alien Cyber Coat
 
 Release Date: May 2, 2023
 
-Platforms: PC
+Platforms: PC VR
 
 Price: $29.99
 
