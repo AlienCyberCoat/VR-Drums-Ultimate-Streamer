@@ -44,7 +44,7 @@ Benefits:
 How to Play:
 - Pick up your sticks and start banging.
 
-Video Trailer
+Video Trailer:
 
 
 Images:
