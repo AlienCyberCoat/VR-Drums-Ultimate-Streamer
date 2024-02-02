@@ -89,15 +89,19 @@ https://vrtodaymagazine.com/
 "VR Drums Ultimate Streamer takes drumming in virtual reality to the next level, as it features a 17+ piece drum set, a realistic physics engine, and advanced audio processing. You can also mod and practice your drum set and use the MIDI out option to connect to other devices. With OpenXR support, the game is compatible with most OpenXR devices."
 
 Quest Logo Transparent
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8334fca5-9f49-419c-94fb-e46af1354877)
 
 PC Logo Transparent
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/f60d980a-5b78-40b3-98f1-9f5a9ee162b2)
 
 Universal Logo Transparent
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/30268f74-990c-4d15-ba31-8c8b787f6dba)
 
 Basic Logo Black Background
+
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/59a445ea-8c0b-4e8a-b29c-a51da08c67e3)
 
 
