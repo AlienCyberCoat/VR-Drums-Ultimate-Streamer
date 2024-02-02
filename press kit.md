@@ -102,7 +102,8 @@ Universal Logo Transparent (PNG)
 
 Basic Logo Black Background (PNG)
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/bfb28bab-8f96-4bc2-900e-62150696d5fb)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8bae65c7-a2df-463d-a7f2-87a875d74373)
+
 
 
 
