@@ -34,10 +34,10 @@ Own a realistic looking and sounding drum kit without all the limitations of the
 VR Drums Ultimate Streamer is a physic based VR drum kit simulator that has been in development for over 2 years. Our kit simulates owning your own personal drum kit that you can perform on, practice, learn, or modify. You can even move and position each individual drum or cymbal. You can change the drum head of each drum, just like a real drum, changing it's sound when it's hit. Add more drums and cymbals to your kit. Live the ultimate drumming fantasy in VR Drums Ultimate Streamer.
 
 ░Why?:
-We wanted to develop a VR drum kit when we lost our real life drum kit. We hope this helps people with the same issue.
+1. We wanted to develop a VR drum kit when we lost our real life drum kit. We hope this helps people with the same issue.
+2. Only you hear the noise, not your neighbors.
 
 ░Physics5 - The custom drumming physics framework made for VR Drums Ultimate Streamer, does drum stuff.
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b3626e52-f0db-4635-84b3-198de577f4a1)
 
 
 ░░░░░░░The Benefits (PC & Quest):
