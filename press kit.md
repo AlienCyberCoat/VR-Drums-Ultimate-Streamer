@@ -38,6 +38,7 @@ VR Drums Ultimate Streamer is a physic based VR drum kit simulator that has been
 2. Only you hear the noise, not your neighbors.
 
 ░Physics5 - The custom drumming physics framework made for VR Drums Ultimate Streamer, does drum stuff.
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/44666dad-b6f8-45f6-9ad5-91c4221ffc6a)
 
 
 ░░░░░░░The Benefits (PC & Quest):
