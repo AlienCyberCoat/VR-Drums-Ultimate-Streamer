@@ -96,15 +96,18 @@ Third party tools that could help you create, wire your own, aid in your externa
 
 You can map the keyboard hihat and bass pedal keys to any device you want with third party tools below.
 
-Remapping software
+If your pedals have software configuration for functionality please try its different modes with gameplay like single press or long press. We recommend single press. Please contact for more help.
+
+Remapping software options:
+░Your pedal software
 ░reWASD joystick mapper
 ░JoyToKey
 
-░Keyboard keys to map
+░Keyboard keys to map:
 **Kick Hi-hat (K key)
 **Kick Bass (Space key)
 
-░Mouse buttons to map
+░Mouse buttons to map:
 **Kick Bass (Left click)
 **Kick Hi-hat (Right click)
 
