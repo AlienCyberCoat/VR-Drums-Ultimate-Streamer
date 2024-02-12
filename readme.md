@@ -438,6 +438,7 @@ Point your laser at it, squeeze the VR controller trigger to click the button. A
 Look for the right and left hand position arrows. Hovering your VR hand laser pointer over them and squeeze the trigger to press them.
 
 📜░░**Question:** (Quest) How to play music while drumming?
+
 ✔**Answer
 
 Quset2: https://www.youtube.com/watch?v=OY6RNYNTZqA
