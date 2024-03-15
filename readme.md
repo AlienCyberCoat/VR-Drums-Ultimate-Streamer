@@ -248,7 +248,7 @@ Your song and chart will load and be ready to be played. You will see the album 
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5cc7de92-a3e4-4974-ab8d-7c10a68333fe)
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/9f6478af-5d49-450c-8f2f-54a31d385da3)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/e69f4180-40a5-4e71-8893-8e9c155798d3)
 
 Your controls for the note highway.
 
