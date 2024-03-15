@@ -1,6 +1,3 @@
-Transparent .PNG Universal Logo
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b13aa21f-2ed1-4932-bf78-bdfaad08c980)
-
 See www.aliencybercoat.com for more help and information.
 
 
