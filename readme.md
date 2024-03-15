@@ -119,9 +119,7 @@ If you are really in need, you can lay your keyboard or mouse on the floor and s
 
 ░Exit EDIT MODE -- Tap again (VR Controller: Left primary button 1)
 
-You can also enter EDIT MODE via the menu. Click "Config" botton using your VR hand laser and pull the controllers trigger.
-
-EDIT MODE allows you to move drums, objects, and change drum sounds. To enter EDIT MODE click the checkbox in the Drum Builder menu. Once enabled exit the menu and enter VR while EDIT MODE is on. Read how to move your drums below. Return to the menu and disable the EDIT MODE checkbox when you are done. There is also a controller button to enter EDIT MODE on the fly (Left VR controller Button 1).
+EDIT MODE allows you to move drums, objects, and change drum sounds. (Left VR controller Button 1).
 
 ![Unity_0M8SRHWHaY](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/5c04a943-1bcd-43db-8447-85ba8e945812)
 
