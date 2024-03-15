@@ -209,6 +209,10 @@ OBS Software: https://obsproject.com/download
 
 ░░░░░**Play Clone Hero and Custom Songs on Note Highway**░░░░░░░░░░░░░░░░░░░░
 
+View the informational quick video help:
+https://youtu.be/Y5QZP4dFSm0
+
+
 Put your Clone Hero song folders inside "VRDUS\VRDUS_Data\Music\Songs".
 
 Following standard format of charted songs and content we will use the song example "Rocketman" see below.
