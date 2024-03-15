@@ -121,11 +121,9 @@ If you are really in need, you can lay your keyboard or mouse on the floor and s
 
 EDIT MODE allows you to move drums, objects, and change drum sounds. (Left VR controller Button 1).
 
-When you enter EDIT MODE you will see a warning all around you that you are in EDIT MODE.
-
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c4f0892a-146c-4d52-afe2-4f3f8563c189)
 
-Player in EDIT MODE example.
+When you enter EDIT MODE you will see a warning all around you that you are in EDIT MODE.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/fb1d269b-eeee-402b-b791-0a80be7a3dbe)
 
