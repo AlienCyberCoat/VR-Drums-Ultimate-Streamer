@@ -236,7 +236,7 @@ Now in the game select the "MAIN" tab and select the Note Highway.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/417f3a26-295f-4427-8aa6-52bacf6c8c23)
 
-Now when you are in the Note Shop, find your directory with your song contents in it and select the song file and your song will load and ready do play along with the chart.
+Find your directory with your song contents in it and select the song file and your song will load and ready do play along with the chart.
 
 Find your directory.
 
