@@ -207,7 +207,7 @@ Select "Locations" in the config menu and select "Green Screen Room". Remove you
 OBS Software: https://obsproject.com/download
 
 
-░░░░░**Play Clone Hero and Custom Songs on Note Highway**░░░░░░░░░░░░░░░░░░░░
+░░░░░**Play Guitar Hero, Rock Band and Clone Hero song charts**░░░░░░░░░░░░░░░░░░░░
 
 View the informational quick video help:
 https://youtu.be/Y5QZP4dFSm0
