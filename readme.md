@@ -165,7 +165,7 @@ Enter the configuration menu and find the "Drummer" tab with your drummers setti
 
 Check the checkbox Custom Face Texture. Enter the path to the image location (Example: "C:\MyStuff\MyFace.jpg" or "Http://www.website.com/MyFace.jpg") Paste the image path into the Custom Face Texture input field and press enter on your keyboard. The texture will load onto your drummers face. Exit the menu. Read below on how to add your own face or paint a face.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/66976b8d-15e7-42aa-8652-6c515af2d86d)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8163f053-9945-4e59-8456-62a5a90245f3)
 
 
 ░░░░░**Adding or Texturing a Face**░░░░░░░░░░░░
