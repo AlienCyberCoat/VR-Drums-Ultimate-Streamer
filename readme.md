@@ -210,10 +210,9 @@ OBS Software: https://obsproject.com/download
 ░░░░░**Play Guitar Hero, Rock Band and Clone Hero song charts**░░░░░░░░░░░░░░░░░░░░
 
 View the informational quick video help:
-https://youtu.be/Y5QZP4dFSm0
+https://www.youtube.com/watch?v=Y5QZP4dFSm0
 
-
-Put your Clone Hero song folders inside "VRDUS\VRDUS_Data\Music\Songs".
+Put your Clone Hero song folders inside "VRDUS\VRDUS_Data\Music\Songs" or anywhere you like.
 
 Following standard format of charted songs and content we will use the song example "Rocketman" see below.
 
@@ -231,7 +230,7 @@ Example of contents in the /Rocketman subfolder.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/b670f418-7e5f-45ac-8c7f-91a6f611c6b5)
 
-Make your own charts or add others to this \Songs folder. You can find 2 charting tools in this games installation folder under "VRDUS\VRDUS_Data\Music". Chart with what one you like.
+Make your own charts or add others to this \Songs folder or anywhere you like. You can find 2 charting tools in this games installation folder.
 
 Now in the game select the Note Shop.
 
