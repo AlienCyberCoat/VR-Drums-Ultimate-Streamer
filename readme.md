@@ -134,7 +134,7 @@ Enter EDIT MODE, see above.
 
 Point your VR hand laser at the drum you want to move and squeeze and hold the (Grip trigger), now move the drum to your desired location, you can change it's distance by using your analog stick up and down while holding the drum, you can also rotate the drum while holding it using your analog stick left and right. Relase the (Grip trigger) when you are happy with the drums placement.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/f31c8a6a-eee9-4282-a59a-5cb97c7afbfe)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/2282031a-01fd-476c-a3e6-41b90adf1852)
 
 You can move other objects while in EDIT MODE too.
 
