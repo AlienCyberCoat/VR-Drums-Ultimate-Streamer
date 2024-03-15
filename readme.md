@@ -252,7 +252,7 @@ Your song and chart will load and be ready to be played. You will see the album 
 
 Your controls for the note highway.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/3fa3b9f0-27d6-4540-8fdc-af2b21d198e5)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/770aca16-82e4-42a6-be68-cc618f10c3a1)
 
 NOTE: If you see no notes but hear the song on the highway, make sure you selected the correct difficulty for the tracks chart to be played. You can change the difficulty on the fly by looking to your left and adjusting the note highway controls.
 
