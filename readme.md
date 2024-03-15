@@ -51,7 +51,7 @@ You can also use your VR controllers to position yourself on the fly in-game. Th
 
 Click the "Config" botton using your VR hand laser and pull the controllers trigger. You will see position controls for both right and left VR hands. Use the arrows to move. Moving these can position your hands or drum sticks in  the position you like.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/231c3ee6-257f-4965-adc2-de9ce263c73b)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/ce86beb0-2346-4187-b4a6-3a9341b86cab)
 
 Some players don't like the hand lasers on at all times. If they get in your way, look right to find the option, you can hide them anytime you want.
 
