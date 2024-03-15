@@ -163,7 +163,7 @@ VR Drums Ultimate Stramer will launch fullscreen. To minimize VRDUS into a movea
 
 Enter the configuration menu and find the "Drummer" tab with your drummers settings.
 
-Check the checkbox Custom Face Texture. Enter the path to the image location (Example: "C:\MyStuff\MyFace.jpg" or "Http://www.website.com/MyFace.jpg") Paste the image path into the Custom Face Texture input field and press enter on your keyboard. The texture will load onto your drummers face. Exit the menu. Read below on how to add your own face or paint a face.
+Check the checkbox "Custom" box. Enter the path to the image location (Example: "C:\MyStuff\MyFace.jpg" or "Http://www.website.com/MyFace.jpg") Paste the image path into the Custom Face Texture input field. The texture will load onto your drummers face. Exit the menu. Read below on how to add your own face or paint a face.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/8163f053-9945-4e59-8456-62a5a90245f3)
 
