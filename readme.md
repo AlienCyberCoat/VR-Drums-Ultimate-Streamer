@@ -212,7 +212,7 @@ OBS Software: https://obsproject.com/download
 View the informational quick video help:
 https://www.youtube.com/watch?v=Y5QZP4dFSm0
 
-Put your Clone Hero song folders inside "VRDUS\VRDUS_Data\Music\Songs" or anywhere you like.
+Put your custom song folders inside "VRDUS\VRDUS_Data\Music\Songs" or anywhere you like.
 
 Following standard format of charted songs and content we will use the song example "Rocketman" see below.
 
@@ -254,7 +254,9 @@ Your controls for the note highway.
 
 ![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/770aca16-82e4-42a6-be68-cc618f10c3a1)
 
-NOTE: If you see no notes but hear the song on the highway, make sure you selected the correct difficulty for the tracks chart to be played. You can change the difficulty on the fly by looking to your left and adjusting the note highway controls.
+NOTE: If you see no notes but hear the song on the highway, make sure you selected the correct difficulty for the tracks chart to be played. You can change the difficulty on the fly by looking to your left and adjusting the note highway controls. Make sure your note file is a .chart, if it is a .mid instead you will have to convert it using a tool included in the games installation folder, or download Moonscraper Chart Editor anywhere on the web.
+
+Convert .mid to .chart video help: https://www.youtube.com/watch?v=Y5QZP4dFSm0
 
 
 ░░░░░**Create Custom Songs/Chart Files**░░░░░░░░░░░░░░░░░░░░
