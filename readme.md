@@ -232,9 +232,9 @@ Example of contents in the /Rocketman subfolder.
 
 Make your own charts or add others to this \Songs folder or anywhere you like. You can find 2 charting tools in this games installation folder.
 
-Now in the game select the Note Shop.
+Now in the game select the Note Highway.
 
-![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/d7882e18-695a-418d-8fb1-4fbc0a85fa5b)
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/417f3a26-295f-4427-8aa6-52bacf6c8c23)
 
 Now when you are in the Note Shop, find your directory with your song contents in it and select the song file and your song will load and ready do play along with the chart.
 
