@@ -138,6 +138,8 @@ Point your VR hand laser at the drum you want to move and squeeze and hold the (
 
 You can move other objects while in EDIT MODE too.
 
+![image](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c34258b3-1b9e-4ff6-bc71-6e911026c0f2)
+
 
 ░░░░░**Change an Instrument**░░░░░░░░░
 
