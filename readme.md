@@ -115,11 +115,11 @@ If you are really in need, you can lay your keyboard or mouse on the floor and s
 
 ░░░░░**EDIT MODE**░░░░░░░░░░░░░░░░░░░░
 
-░Enter EDIT MODE (VR Controller: Left primary button 1)
+░Enter EDIT MODE (Has move to LEFT: Analog Stick Press In)
 
-░Exit EDIT MODE -- Tap again (VR Controller: Left primary button 1)
+░Exit EDIT MODE -- Tap again (VR Controller: LEFT: Analog Stick Press In)
 
-EDIT MODE allows you to move drums, objects, and change drum sounds. (Left VR controller Button 1).
+EDIT MODE allows you to move drums, objects, and change drum sounds.
 
 ![OculusControllersVRDUSEDIT](https://github.com/AlienCyberCoat/VR-Drums-Ultimate-Streamer/assets/77039180/c4f0892a-146c-4d52-afe2-4f3f8563c189)
 
