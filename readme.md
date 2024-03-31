@@ -1,4 +1,4 @@
-See www.aliencybercoat.com for more help and information.
+OUTDATE but useful information. See www.aliencybercoat.com for more help and information.
 
 
 ░░░░░**Operations**░░░░░░░░░░░░░░░░░░░
