@@ -1,4 +1,4 @@
-Detailed Quick Manual - Tech Help (Old: See Web Universal Help Guide) >> https://aliencybercoat.wixsite.com/home/games
+***(Old: See Web Universal Help Guide) >> https://aliencybercoat.wixsite.com/home/games
 
 
 ░░░░░**Operations**░░░░░░░░░░░░░░░░░░░
