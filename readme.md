@@ -1,4 +1,4 @@
-OUTDATE but useful information. See www.aliencybercoat.com for more help and information.
+Detailed Quick Manual - Tech Help (Old: See Web Universal Help Guide) >> https://aliencybercoat.wixsite.com/home/games
 
 
 ░░░░░**Operations**░░░░░░░░░░░░░░░░░░░
