@@ -1,4 +1,4 @@
-*** (Old: See Web Universal Help Guide) >> https://aliencybercoat.wixsite.com/home/games *** old
+*** (Old: See Web Universal Help Guide) >> https://aliencybercoat.wixsite.com/home/games *** old useful 
 
 ||This guide still has some useful information that is not listed on the new Web Guide listed above||
 
