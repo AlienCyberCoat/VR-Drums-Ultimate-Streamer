@@ -1,7 +1,5 @@
 *** (See the new Universal Web Help Guide) >> https://aliencybercoat.wixsite.com/home/games ***
 
-||This guide still has some useful information that is not listed on the new Universal Web Help Guide above||
-
 
 ░░░░░**Operations**░░░░░░░░░░░░░░░░░░░
 
