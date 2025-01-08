@@ -2,6 +2,7 @@
 
 
 ░░░VRDUS Project░
+
 Using: Gideon-PCVR░**Operations**░░░░░░░░░░░░░░░░░░░
 
 Select VR Drums Ultimate Steamer from your library in Steam. While the loading screen is up put your VR unit on your head, sit and center yourself in your play area and wait for the game to load.
