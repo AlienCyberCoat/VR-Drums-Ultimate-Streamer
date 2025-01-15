@@ -1,9 +1,7 @@
 *** (See the new Universal Web Help Guide) >> https://aliencybercoat.wixsite.com/home/games ***
 
 
-░░░VRDUS Project░░**Operations**░░░░░░░░░░░░░░░░░░░
-
-Using: Gideon-VR
+░░░VRDUS░░░░░░░░░░░░░░░░░░░░░
 
 Select VR Drums Ultimate Steamer from your library in Steam. While the loading screen is up put your VR unit on your head, sit and center yourself in your play area and wait for the game to load.
 
